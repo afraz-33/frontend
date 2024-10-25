@@ -1,0 +1,197 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* General Reset and Layout */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5 {
+    color: #234350;
+    margin: 0;
+    padding: 0;
+  }
+  
+  p {
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Curved Section */
+  .curved-section {
+    position: relative;
+    background-color: #2c3e50;
+    padding: 80px 20px; /* Adjusted padding for a more compact fit */
+    color: white;
+    text-align: center;
+    border-bottom-left-radius: 50% 50px;
+    border-bottom-right-radius: 50% 50px;
+  }
+  
+  .intro-title {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .intro-text {
+    font-size: 16px;
+    margin-top: 10px;
+    max-width: 600px;
+    margin: 10px auto;
+  }
+  
+  /* Search Section */
+  .search-section {
+    background-color: #f0f4f8;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .search-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .search-options {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-tab {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 10px;
+    cursor: pointer;
+    color: #2c3e50;
+  }
+  
+  .search-tab.active {
+    border-bottom: 3px solid #2c3e50;
+  }
+  
+  .search-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .search-input {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-btn {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Directors Section */
+  .directors-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .director-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .director-card {
+    background-color: white;
+    padding: 10px;
+    width: 300px;
+    text-align: left;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .director-card h4 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  /* Stories Section */
+  .stories-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .stories-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+  }
+  
+  .story-large {
+    grid-column: span 2;
+  }
+  
+  .story-small {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  /* Adjustments for the search bar section */
+.bg-blue-600 {
+  background-color: #2B6CB0; /* Tailwind's blue-600 as an example, adjust the color to match your design */
+}
+
+input[type="text"] {
+  width: calc(100% - 2rem); /* Adjust the width to fit the container */
+}
+
+button {
+  flex-shrink: 0; /* Prevents the button from shrinking */
+}
+
+/* Navbar Styles */
+nav {
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  max-height: 10px;
+}
+
+nav a {
+  color: #333333;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #1d4ed8; /* Blue hover effect */
+}
+
+nav button {
+  background-color: #ff6600; /* Orange urgent button */
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+nav button:hover {
+  background-color: #e55b00; /* Darker orange on hover */
+}
+
+@media (max-width: 768px) {
+  nav .hidden.md\\:flex {
+    display: none; /* Hide middle links on mobile */
+  }
+}
+
+
+  
