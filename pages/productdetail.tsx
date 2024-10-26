@@ -132,7 +132,7 @@ const ProductDetail = () => {
         headstone_monuments: headstoneMonuments,
         email,
         code,
-        ...(imageId && { logo: imageId }),
+        logo: imageId,
       };
 
       await axios.put(`http://localhost:1337/api/products/${document_id}`, { data }, {

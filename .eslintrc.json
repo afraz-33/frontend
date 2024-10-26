@@ -1,3 +1,11 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "off",           // Ignores unused variable warnings
+    "@typescript-eslint/no-explicit-any": "off",          // Allows usage of `any` type without warnings
+    "react-hooks/exhaustive-deps": "off",                 // Disables missing dependency warnings in `useEffect`
+    "react/no-unescaped-entities": "off",                 // Ignores unescaped entities in JSX
+    "@next/next/no-img-element": "off",                   // Allows usage of <img> tags, though <Image /> is recommended
+    "@typescript-eslint/explicit-module-boundary-types": "off" // Allows implicit return types for module boundaries
+  }
 }

@@ -12,7 +12,7 @@ export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
   const [type, setType] = useState('Cremation');
   const router = useRouter(); // Correct usage of useRouter from next/navigation
-  localStorage.setItem('token','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI2ODE0MzY3LCJleHAiOjE3Mjk0MDYzNjd9.qVvv9ZbIA2H862yBYBsrGAL7WwnCSshGtsPlc40Pp4I')
+  if (typeof window !== 'undefined' && window.localStorage) {localStorage.setItem('token','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI2ODE0MzY3LCJleHAiOjE3Mjk0MDYzNjd9.qVvv9ZbIA2H862yBYBsrGAL7WwnCSshGtsPlc40Pp4I')};
   const handleSearch = () => {
     if (searchTerm.trim()) {
       // Use router.push from next/navigation to navigate to the "cremation" route with query params

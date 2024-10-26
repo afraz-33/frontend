@@ -152,7 +152,7 @@ const Dashboard = () => {
         headstone_monuments: productData.headstone_monuments,
         email: productData.email,
         code: productData.code,
-        ...(imageId && { logo: imageId }),
+         logo: imageId ,
       };
 
       await axios.post('http://localhost:1337/api/products', { data }, {
