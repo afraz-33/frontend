@@ -1,7 +1,19 @@
-import { useState, useEffect } from 'react';
-import { useRouter } from 'next/router';
-import axios from 'axios';
-import Navbar from '../components/Navbar';
+import { useState, useEffect } from "react";
+import { useRouter } from "next/router";
+import axios from "axios";
+import Navbar from "../components/Navbar";
+import { useTranslations } from "next-intl";
+
+export async function getStaticProps({ locale }) {
+  console.log("Current Locale:", locale); // Debug
+
+  return {
+    props: {
+      locale: locale || "en", // Fallback to 'en' if locale is undefined
+      messages: (await import(`../locales/${locale || "en"}.json`)).default,
+    },
+  };
+}
 
 interface Product {
   documentId: string;
@@ -33,37 +45,45 @@ interface Product {
 }
 
 const ProductDetail = () => {
+  const t = useTranslations("productDetail");
+
   const router = useRouter();
   const [product, setProduct] = useState<Product | null>(null);
-  const [title, setTitle] = useState('');
-  const [description, setDescription] = useState('');
-  const [services, setServices] = useState('');
-  const [contact, setContact] = useState('');
-  const [type, setType] = useState('');
-  const [funeralType, setFuneralType] = useState('');
-  const [payment, setPayment] = useState('');
-  const [arrangements, setArrangements] = useState('');
-  const [guests, setGuests] = useState('');
-  const [location, setLocation] = useState('');
-  const [funeralLocation, setFuneralLocation] = useState('');
-  const [facilities, setFacilities] = useState('');
-  const [transport, setTransport] = useState('');
-  const [coffin, setCoffin] = useState('');
-  const [price, setPrice] = useState('');
-  const [headstoneMonuments, setHeadstoneMonuments] = useState('');
-  const [email, setEmail] = useState('');
-  const [code, setCode] = useState('');
+  const [title, setTitle] = useState("");
+  const [description, setDescription] = useState("");
+  const [services, setServices] = useState("");
+  const [contact, setContact] = useState("");
+  const [type, setType] = useState("");
+  const [funeralType, setFuneralType] = useState("");
+  const [payment, setPayment] = useState("");
+  const [arrangements, setArrangements] = useState("");
+  const [guests, setGuests] = useState("");
+  const [location, setLocation] = useState("");
+  const [funeralLocation, setFuneralLocation] = useState("");
+  const [facilities, setFacilities] = useState("");
+  const [transport, setTransport] = useState("");
+  const [coffin, setCoffin] = useState("");
+  const [price, setPrice] = useState("");
+  const [headstoneMonuments, setHeadstoneMonuments] = useState("");
+  const [email, setEmail] = useState("");
+  const [code, setCode] = useState("");
   const [file, setFile] = useState<File | null>(null);
 
-  const document_id = typeof window !== 'undefined' ? localStorage.getItem('id') : null;
+  const document_id =
+    typeof window !== "undefined" ? localStorage.getItem("id") : null;
 
   useEffect(() => {
     if (document_id) {
       const fetchProduct = async () => {
         try {
-          const res = await axios.get(`http://localhost:1337/api/products/${document_id}?populate=logo`, {
-            headers: { Authorization: `Bearer ${localStorage.getItem('token')}` },
-          });
+          const res = await axios.get(
+            `http://localhost:1337/api/products/${document_id}?populate=logo`,
+            {
+              headers: {
+                Authorization: `Bearer ${localStorage.getItem("token")}`,
+              },
+            }
+          );
           setProduct(res.data.data);
           const productData = res.data.data.attributes;
           setTitle(productData.title);
@@ -85,7 +105,7 @@ const ProductDetail = () => {
           setEmail(productData.email);
           setCode(productData.code);
         } catch (error) {
-          console.error('Error fetching product details:', error);
+          console.error("Error fetching product details:", error);
         }
       };
       fetchProduct();
@@ -103,13 +123,17 @@ const ProductDetail = () => {
 
       if (file) {
         const formData = new FormData();
-        formData.append('files', file);
-        const uploadResponse = await axios.post('http://localhost:1337/api/upload', formData, {
-          headers: {
-            Authorization: `Bearer ${localStorage.getItem('token')}`,
-            'Content-Type': 'multipart/form-data',
-          },
-        });
+        formData.append("files", file);
+        const uploadResponse = await axios.post(
+          "http://localhost:1337/api/upload",
+          formData,
+          {
+            headers: {
+              Authorization: `Bearer ${localStorage.getItem("token")}`,
+              "Content-Type": "multipart/form-data",
+            },
+          }
+        );
         imageId = uploadResponse.data[0].id;
       }
 
@@ -135,36 +159,42 @@ const ProductDetail = () => {
         logo: imageId,
       };
 
-      await axios.put(`http://localhost:1337/api/products/${document_id}`, { data }, {
-        headers: {
-          Authorization: `Bearer ${localStorage.getItem('token')}`,
-          'Content-Type': 'application/json',
-        },
-      });
+      await axios.put(
+        `http://localhost:1337/api/products/${document_id}`,
+        { data },
+        {
+          headers: {
+            Authorization: `Bearer ${localStorage.getItem("token")}`,
+            "Content-Type": "application/json",
+          },
+        }
+      );
 
-      alert('Product updated successfully!');
+      alert("Product updated successfully!");
       router.push("/dashboard");
     } catch (error) {
-      alert('Failed to update product.');
-      console.error('Error updating product:', error);
+      alert("Failed to update product.");
+      console.error("Error updating product:", error);
     }
   };
 
   const handleDeleteProduct = async () => {
-    const confirmation = window.confirm("Are you sure you want to delete this product?");
+    const confirmation = window.confirm(
+      "Are you sure you want to delete this product?"
+    );
     if (!confirmation) {
       return;
     }
 
     try {
       await axios.delete(`http://localhost:1337/api/products/${document_id}`, {
-        headers: { Authorization: `Bearer ${localStorage.getItem('token')}` },
+        headers: { Authorization: `Bearer ${localStorage.getItem("token")}` },
       });
-      alert('Product deleted successfully!');
-      router.push('/dashboard');
+      alert("Product deleted successfully!");
+      router.push("/dashboard");
     } catch (error) {
-      alert('Failed to delete product.');
-      console.error('Error deleting product:', error);
+      alert("Failed to delete product.");
+      console.error("Error deleting product:", error);
     }
   };
 
@@ -174,19 +204,19 @@ const ProductDetail = () => {
       <div className="container mx-auto p-4">
         {product ? (
           <div>
-            <h1 className="text-2xl font-bold mb-4">Edit Product</h1>
+            <h1 className="text-2xl font-bold mb-4">{t("editProduct")}</h1>
             <input
               type="text"
               value={title}
               onChange={(e) => setTitle(e.target.value)}
-              placeholder="Title"
+              placeholder={t("titlePlaceholder")}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             />
             <textarea
               value={description}
               onChange={(e) => setDescription(e.target.value)}
-              placeholder="Description"
+              placeholder={t("descriptionPlaceholder")}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             />
@@ -194,7 +224,7 @@ const ProductDetail = () => {
               type="text"
               value={services}
               onChange={(e) => setServices(e.target.value)}
-              placeholder="Services"
+              placeholder={t("servicesPlaceholder")}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             />
@@ -202,7 +232,7 @@ const ProductDetail = () => {
               type="text"
               value={contact}
               onChange={(e) => setContact(e.target.value)}
-              placeholder="Contact"
+              placeholder={t("contactPlaceholder")}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             />
@@ -210,23 +240,23 @@ const ProductDetail = () => {
               type="text"
               value={code}
               onChange={(e) => setCode(e.target.value)}
-              placeholder="City/Postal Code"
+              placeholder={t("codePlaceholder")}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             />
-            <label htmlFor="ype">Type</label>
+            <label htmlFor="type">{t("typeLabel")}</label>
             <select
-              id="Type"
+              id="type"
               value={type}
               onChange={(e) => setType(e.target.value)}
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select type</option>
-              <option value="Buying">Buying</option>
-              <option value="Cremation">Cremation</option>
+              <option value="">{t("selectTypeOption")}</option>
+              <option value="Buying">{t("buyingOption")}</option>
+              <option value="Cremation">{t("cremationOption")}</option>
             </select>
-            <label htmlFor="funeralType">Type of Funeral</label>
+            <label htmlFor="funeralType">{t("funeralTypeLabel")}</label>
             <select
               id="funeralType"
               value={funeralType}
@@ -234,14 +264,18 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select funeral type</option>
-              <option value="Traditional Funeral">Traditional Funeral</option>
-              <option value="Church Funeral">Church Funeral</option>
-              <option value="Non-religious Burial">Non-religious Burial</option>
-              <option value="Nature Burial">Nature Burial</option>
-              <option value="Eco Funeral">Eco Funeral</option>
+              <option value="">{t("selectFuneralTypeOption")}</option>
+              <option value="Traditional Funeral">
+                {t("traditionalFuneralOption")}
+              </option>
+              <option value="Church Funeral">{t("churchFuneralOption")}</option>
+              <option value="Non-religious Burial">
+                {t("nonReligiousBurialOption")}
+              </option>
+              <option value="Nature Burial">{t("natureBurialOption")}</option>
+              <option value="Eco Funeral">{t("ecoFuneralOption")}</option>
             </select>
-           <label htmlFor="payment">Payment Options</label>
+            <label htmlFor="payment">{t("paymentLabel")}</label>
             <select
               id="payment"
               value={payment}
@@ -249,11 +283,13 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select payment option</option>
-              <option value="Prepayment">Prepayment</option>
-              <option value="Payment in Installments">Payment in Installments</option>
+              <option value="">{t("selectPaymentOption")}</option>
+              <option value="Prepayment">{t("prepaymentOption")}</option>
+              <option value="Payment in Installments">
+                {t("paymentInInstallmentsOption")}
+              </option>
             </select>
-            <label htmlFor="arrangements">Special Funeral Arrangements</label>
+            <label htmlFor="arrangements">{t("arrangementsLabel")}</label>
             <select
               id="arrangements"
               value={arrangements}
@@ -261,15 +297,27 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select special arrangements</option>
-              <option value="Home Confinement">Home Confinement</option>
-              <option value="Return to Country of Origin">Return to Country of Origin</option>
-              <option value="Seaman’s Funeral">Seaman’s Funeral</option>
-              <option value="Direct Cremation or Burial">Direct Cremation or Burial</option>
-              <option value="Military Funeral Services">Military Funeral Services</option>
-              <option value="Children’s Funerals">Children's Funerals</option>
+              <option value="">{t("selectArrangementsOption")}</option>
+              <option value="Home Confinement">
+                {t("homeConfinementOption")}
+              </option>
+              <option value="Return to Country of Origin">
+                {t("returnToCountryOption")}
+              </option>
+              <option value="Seaman’s Funeral">
+                {t("seamansFuneralOption")}
+              </option>
+              <option value="Direct Cremation or Burial">
+                {t("directCremationOption")}
+              </option>
+              <option value="Military Funeral Services">
+                {t("militaryFuneralOption")}
+              </option>
+              <option value="Children’s Funerals">
+                {t("childrensFuneralOption")}
+              </option>
             </select>
-            <label htmlFor="location">Location</label>
+            <label htmlFor="location">{t("locationLabel")}</label>
             <select
               id="location"
               value={location}
@@ -277,13 +325,19 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select Location</option>
-              <option value="Accessibility of public transport">Accessibility of public transport </option>
-              <option value="Parking Facilities">Parking Facilities</option>
-              <option value="Quiet Environment">Quiet Environment</option>
-              <option value="Urban Locatio">Urban Location</option>
+              <option value="">{t("selectLocationOption")}</option>
+              <option value="Accessibility of public transport">
+                {t("accessibilityPublicTransport")}
+              </option>
+              <option value="Parking Facilities">
+                {t("parkingFacilitiesOption")}
+              </option>
+              <option value="Quiet Environment">
+                {t("quietEnvironmentOption")}
+              </option>
+              <option value="Urban Location">{t("urbanLocationOption")}</option>
             </select>
-            <label htmlFor="funeralLocation">Funeral Location</label>
+            <label htmlFor="funeralLocation">{t("funeralLocationLabel")}</label>
             <select
               id="funeralLocation"
               value={funeralLocation}
@@ -291,13 +345,21 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-               <option value="">Select Funeral Location</option>
-               <option value="Church or religious building">Church or religious building</option>
-               <option value="Funeral home with its own cemetery">Funeral home with its own cemetery</option>
-               <option value="Outdoor Location">Outdoor Location (e.g. park, forest, private land)</option>
-               <option value="Specific Cemetery in the neighbourhood">Specific Cemetery in the neighbourhood</option>
+              <option value="">{t("selectFuneralLocationOption")}</option>
+              <option value="Church or religious building">
+                {t("churchLocationOption")}
+              </option>
+              <option value="Funeral home with its own cemetery">
+                {t("funeralHomeCemeteryOption")}
+              </option>
+              <option value="Outdoor Location">
+                {t("outdoorLocationOption")}
+              </option>
+              <option value="Specific Cemetery in the neighbourhood">
+                {t("specificCemeteryOption")}
+              </option>
             </select>
-            <label htmlFor="facilities">Facilities</label>
+            <label htmlFor="facilities">{t("facilitiesLabel")}</label>
             <select
               id="facilities"
               value={facilities}
@@ -305,50 +367,31 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select Facility Type</option>
-              <option value="Auditorium for ceremony">Auditorium for ceremony</option>
-              <option value="Funeral room">Funeral room(s)</option>
-              <option value="24 hour room">24 hour room(s)</option>
-              <option value="Condolence room(s)">Condolence room(s)</option>
-              <option value="Possibility for reception">Possibility for reception</option>
-              <option value="Family room">Family room</option>
-            </select>
-            <label htmlFor="transport">Transport</label>
-            <select
-              id="transport"
-              value={transport}
-              onChange={(e) => setTransport(e.target.value)}
-              className="w-full p-2 border border-gray-300 rounded mb-4"
-              required
-            >
-               <option value="">Select Transport Type</option>
-              <option value="Funeral car">Funeral car</option>
-              <option value="Special Transport">Special Transport (e.g. carriage, motorbike)</option>
-              <option value="Family transport">Family transport</option>
-            </select>
-            <label htmlFor="coffin">Coffin</label>
-            <select
-              id="coffin"
-              value={coffin}
-              onChange={(e) => setCoffin(e.target.value)}
-              className="w-full p-2 border border-gray-300 rounded mb-4"
-              required
-            >
-              <option value="">Select Coffin Type</option>
-              <option value="Traditional wooden coffin">Traditional wooden coffin</option>
-              <option value="Biodegradable coffin">Biodegradable coffin</option>
-              <option value="Personalised coffin">Personalised coffin (e.g. paintings, images, themes)</option>
-              <option value="Luxury coffin">Luxury coffin</option>
+              <option value="">{t("selectFacilityTypeOption")}</option>
+              <option value="Auditorium for ceremony">
+                {t("auditoriumForCeremonyOption")}
+              </option>
+              <option value="Funeral room(s)">{t("funeralRoomOption")}</option>
+              <option value="24 hour room(s)">
+                {t("twentyFourHourRoomOption")}
+              </option>
+              <option value="Condolence room(s)">
+                {t("condolenceRoomOption")}
+              </option>
+              <option value="Possibility for reception">
+                {t("possibilityForReceptionOption")}
+              </option>
+              <option value="Family room">{t("familyRoomOption")}</option>
             </select>
             <input
-            type="number"
-            value={price}
-            onChange={(e) => setPrice(e.target.value)}
-            placeholder="Price"
-            required
-            className="w-full p-2 border border-gray-300 rounded"
-          />
-            <label htmlFor="headstone">Headstone & Monuments</label>
+              type="number"
+              value={price}
+              onChange={(e) => setPrice(e.target.value)}
+              placeholder={t("pricePlaceholder")}
+              required
+              className="w-full p-2 border border-gray-300 rounded"
+            />
+            <label htmlFor="headstone">{t("headstoneLabel")}</label>
             <select
               id="headstone"
               value={headstoneMonuments}
@@ -356,19 +399,25 @@ const ProductDetail = () => {
               className="w-full p-2 border border-gray-300 rounded mb-4"
               required
             >
-              <option value="">Select Monument Type</option>
-              <option value="Choice of different types of headstones">Choice of different types of headstones</option>
-              <option value="Possibility of personalised tombstones">Possibility of personalised tombstones</option>
-              <option value="Green or natural grave markers">Green or natural grave markers</option>
+              <option value="">{t("selectMonumentOption")}</option>
+              <option value="Choice of different types of headstones">
+                {t("headstoneOption1")}
+              </option>
+              <option value="Possibility of personalised tombstones">
+                {t("headstoneOption2")}
+              </option>
+              <option value="Green or natural grave markers">
+                {t("headstoneOption3")}
+              </option>
             </select>
-           <input
-            type="number"
-            value={guests}
-            onChange={(e) => setGuests(e.target.value)}
-            placeholder="Guests"
-            required
-            className="w-full p-2 border border-gray-300 rounded"
-          />
+            <input
+              type="number"
+              value={guests}
+              onChange={(e) => setGuests(e.target.value)}
+              placeholder="Guests"
+              required
+              className="w-full p-2 border border-gray-300 rounded"
+            />
             <input
               type="email"
               value={email}
@@ -379,7 +428,9 @@ const ProductDetail = () => {
             />
             <input
               type="file"
-              onChange={(e) => setFile(e.target.files ? e.target.files[0] : null)}
+              onChange={(e) =>
+                setFile(e.target.files ? e.target.files[0] : null)
+              }
               className="w-full p-2 mb-4"
             />
 
@@ -388,18 +439,18 @@ const ProductDetail = () => {
                 onClick={handleUpdateProduct}
                 className="bg-green-500 text-white p-2 rounded"
               >
-                Save Changes
+                {t("saveChangesButton")}
               </button>
               <button
                 onClick={handleDeleteProduct}
                 className="bg-red-500 text-white p-2 rounded"
               >
-                Delete Product
+                {t("deleteProductButton")}
               </button>
             </div>
           </div>
         ) : (
-          <p>Loading product details...</p>
+          <p> {t("loadingProductDetails")}</p>
         )}
       </div>
     </>
@@ -407,4 +458,3 @@ const ProductDetail = () => {
 };
 
 export default ProductDetail;
-

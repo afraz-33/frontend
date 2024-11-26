@@ -1,0 +1,1022 @@
+{
+  "navbar": {
+    "logoAltText": "Logo"
+  },
+  "contact": {
+    "header": "Contact us",
+    "questions": "Questions about a specific funeral service or arrangement?",
+    "description1": "Our affiliated funeral directors on Uitvaartcentrum Nederland offer a range of services tailored to your wishes. For each arrangement, the contact details of the respective funeral director are provided. On desktop, this information is located in the right column under the photos; on mobile, it appears at the bottom of the page. For questions, such as a personal consultation or ceremony details, you can contact the funeral director directly. They will provide you with all the information regarding available options and arrangements.",
+    "description2": "View detailed information about funerals in the Netherlands",
+    "descriptionLinkText": "here",
+    "description3": "If your question isn’t listed, please feel free to contact our customer service at",
+    "customerServiceEmail": "info@uitvaartcentrumnederland.nl",
+    "visitingAddressHeader": "Visiting Address",
+    "postalAddressHeader": "Postal Address",
+    "address": {
+      "line1": "Uitvaart Centrum Nederland",
+      "line2": "Faas Wilkesstraat 353",
+      "line3": "1053HX, Amsterdam"
+    },
+    "socialMediaAltTexts": {
+      "instagram": "instagram",
+      "linkedin": "linkedin",
+      "facebook": "facebook",
+      "tiktok": "tiktok",
+      "twitter": "twitter"
+    },
+    "contactDetails": {
+      "emailLabel": "E-mail",
+      "kvkLabel": "KvK",
+      "btwLabel": "BTW nmr"
+    },
+    "formHeader": "Get in contact with Uitvaart Centrum Nederland",
+    "formFields": {
+      "personalInfo": "Personal Information:",
+      "firstName": "First Name",
+      "surname": "Surname",
+      "email": "Email Address",
+      "phone": "Phone",
+      "additionalComments": "Additional Comments"
+    },
+    "formButton": "Send"
+  },
+  "about": {
+    "heading": "About Uitvaart Centrum Nederland",
+    "paragraph1": "At Uitvaart Centrum Nederland, we understand that planning a funeral is an emotional and often overwhelming process. In these difficult times, making informed decisions can feel challenging, and that’s where we come in. Our mission is to support you by providing a transparent and easy-to-use platform to find the right funeral director that meets your needs and expectations.",
+    "paragraph2": "We offer an independent service that allows you to compare funeral directors based on key factors such as price, location, and services offered. This ensures you can make an informed decision that aligns with your preferences and budget.",
+    "heading2": "What Does Uitvaartcentrum Nederland Do?",
+    "paragraph3": " Uitvaartcentrum Nederland is more than just a platform. We are here to support, guide, and lend a helping hand in a time of loss. On our platform, you will find:",
+    "strong1": "An extensive network of funeral providers:",
+    "li1": " We collaborate with a large number of funeral providers who offer a range of services, from traditional to personalized and unique funerals.",
+    "strong2": "Convenience and transparency:",
+    "li2": " Loved ones can easily find the right service provider with our clear information and user-friendly layout. Support during a difficult time: In addition to providing an overview of funeral options, we offer guidance and advice, helping you make the right choices during a challenging period.",
+    "strong3": "Social responsibility:",
+    "li3": "By arranging a funeral through our platform, you indirectly support the Farewell for Everyone Foundation. Your choice enables everyone in the Netherlands to receive a dignified farewell, even if they lack the means themselves.",
+    "paragraph4": " Uitvaartcentrum Nederland and the Farewell for Everyone Foundation share a common goal: to honor and remember every life. Together, we make a difference so that every person in the Netherlands regardless of their circumstances, is respectfully remembered and honored.",
+    "paragraph5": "Uitvaartcentrum Nederland is proud to partner with the Farewell for Everyone Foundation. Read more at the page Farewell for Everyone Foundation. We donate 9% of all proceeds generated through our platform to this remarkable foundation. The foundation plays a crucial role in providing dignity and respect to people who have no family or financial resources to cover funeral expenses. For them, the Farewell for Everyone Foundation ensures that a beautiful and respectful farewell is still possible.",
+    "heading3": "Why the Farewell for Everyone Foundation Is So Important",
+    "paragraph6": "In our society, there are, unfortunately, people without a support network or financial resources. Without these means, a farewell can sometimes be lonely or even unattended. The Farewell for Everyone Foundation advocates for this vulnerable group and ensures that every life is remembered with care. The foundation not only arranges the practical aspects of the funeral but also adds emotional value to the farewell, ensuring that each person is seen and valued.",
+    "paragraph7": "Through the foundation's work, everyone in the Netherlands can count on a humane and respectful farewell. The commitment of the Farewell for Everyone Foundation reflects our shared vision: every life deserves a beautiful and dignified end, regardless of social or financial circumstances. Thanks to the support of Uitvaartcentrum Nederland, they can continue to pursue this important mission."
+  },
+  "blogs": {
+    "heading": "Blogs, stories, tips and information",
+
+    "blog1": {
+      "title": "Natural burial, back to nature",
+      "author": "By: Madelief | 01/09/2024 | 2 minutes read",
+      "paragraph1": "More and more people are choosing natural burial as their final resting place. Natural burial is a sustainable and environmentally friendly way of burial that literally returns to nature. In this article, we explain exactly what natural burial entails, why it is becoming increasingly popular, and what the benefits are for both the environment and the bereaved.",
+      "subheading1": "What is natural burial?",
+      "paragraph2": "Natural burial involves burying a body in a natural way, without the use of, for example, a headstone or concrete. The graves are in a natural environment such as a forest or moorland, and are not marked with a headstone, but sometimes with a tree or shrub.",
+      "subheading2": "Why choose natural burial?",
+      "list1": "Sustainability: It is an eco-friendly alternative to traditional burials.",
+      "list2": "Calm, natural environment: Next of kin can find comfort in the serene surroundings of nature.",
+      "list3": "Simple and pure: The focus is on the natural process of life and death.",
+      "subheading3": "How it works",
+      "paragraph3": "Natural burial uses biodegradable materials, and graves are often carefully maintained by nature organisations. It provides a place where nature takes over and where the deceased merges into the cycle of life."
+    },
+
+    "blog2": {
+      "title": "Digital legacy: take care of your online legacy",
+      "author": "By: Madelief | 03/09/2024 | 2 minutes read",
+      "paragraph1": "In our modern world, much of our lives take place online. From social media to email accounts and online subscriptions, your digital legacy can be a large and important part of your legacy. But what happens to all that data when you are no longer around? In this article, we discuss how to manage your digital legacy, and provide tips to ensure that your online accounts and data are closed in a respectful manner.",
+      "subheading1": "What is a digital legacy?",
+      "paragraph2": "A digital legacy refers to all the online data and accounts a person leaves behind after death. This can range from Facebook and Instagram, to bank accounts, subscriptions to streaming services and even cryptocurrency.",
+      "subheading2": "Why is it important to sort out your digital legacy?",
+      "paragraph3": "Failing to arrange your digital legacy can lead to inconveniences for relatives. Accounts can be hacked, sensitive information can fall into the wrong hands, or family members are left wondering how to manage certain accounts.",
+      "subheading3": "Tips on setting your digital estate:",
+      "list1": "Make a list of all your online accounts and keep them in a safe place.",
+      "list2": "Draw up clear instructions for your next of kin.",
+      "list3": "Consider drafting a digital will with a professional service."
+    },
+
+    "blog3": {
+      "title": "Eternal reefs: turn your loved one's ashes into a living memorial",
+      "author": "By: Madelief | 29/08/2024 | 2 minutes read",
+      "paragraph1": "A special way to commemorate a loved one is by incorporating their ashes into an Eternal Reef, a living memorial in the ocean. In this article, we tell you what Eternal Reefs are and how this eco-friendly choice can create a beautiful, lasting memory.",
+      "subheading1": "What are Eternal Reefs?",
+      "paragraph2": "Eternal Reefs are concrete structures designed to support coral reefs. Mixing your loved one’s ashes with the concrete creates a unique memorial that contributes to ocean restoration.",
+      "subheading2": "Why choose an Eternal Reef?",
+      "list1": "Environmentally friendly: It helps nature by supporting the recovery of coral reefs.",
+      "list2": "Unique memorial: Instead of a traditional urn or grave, your loved one gets a lasting place in nature.",
+      "list3": "Special ceremony: Families can participate in the placement of the Eternal Reef in the ocean.",
+      "subheading3": "How does it work?",
+      "paragraph3": "After cremation, some of the ashes are mixed with a special concrete mix. This forms the basis for a reef structure to be placed in the ocean, where it serves as a habitat for marine animals."
+    },
+
+    "specialPlaces": {
+      "heading": "The most special places you might not have thought of to say goodbye to",
+      "author": "By: Madelief | 25/08/2024 | 6 minutes read",
+      "paragraph1": "Saying goodbye to a loved one is one of the most emotional and memorable moments in our lives. It is not only an opportunity to mourn, but also a chance to reflect on the life of the deceased and cherish what he or she has left behind. A well-chosen location can enrich this experience and help to say goodbye in a meaningful way. While traditional funeral locations such as churches and cemeteries are still the norm, more and more people are opting for unique and personal places that reflect the bond with their loved one.",
+      "paragraph2": "In this article, we share some unusual and less traditional funeral locations that you may not have considered yet, but which can give the ceremony a special and unforgettable atmosphere.",
+
+      "blog1": {
+        "title": "1. On the beach: Peace and serenity by the sea",
+        "paragraph1": "A funeral by the sea offers a serene and comforting environment, where the sound of the waves and the fresh sea air help to say goodbye in harmony. The beach is not only a symbolic place of peace and surrender, but also of continuity, as the water is always moving. This location can provide a comforting setting for families who want to emphasise the cyclical nature of life.",
+        "paragraph2": "With a beach funeral, you can opt for an intimate ceremony at sunset, where nature provides the backdrop. Next of kin can throw flowers or shells into the water as a final tribute, or scatter the deceased's ashes in the sea, which often offers a sense of connection with nature.",
+        "subheading": "Why choose a beach cruise?",
+        "list1": "Soothing sounds of nature, like the rushing of the waves.",
+        "list2": "It symbolises eternity and oneness with nature.",
+        "list3": "The freedom to hold a ceremony in the open air, with the opportunity to add personal touches."
+      },
+
+      "blog2": {
+        "title": "2. In the mountains: Natural beauty and highlights of life",
+        "paragraph1": "For nature lovers or adventurers, a funeral in the mountains can be a beautiful and symbolic way to say goodbye. Mountains often symbolise strength, determination and overcoming challenges, which can make it a meaningful place to pay final respects to a loved one.",
+        "paragraph2": "A ceremony in the mountains offers an intimate atmosphere, with nature as a witness. The sense of oneness with nature, fresh air and impressive views provide a moment of reflection and comfort. Next of kin can, for example, hike to a specific spot where the ceremony takes place, or leave flowers at a special peak as a tribute.",
+        "subheading": "Why choose a funeral in the mountains?",
+        "list1": "The mountains provide a powerful and serene backdrop that offers solace and inspiration.",
+        "list2": "It is a perfect place for nature lovers or people who like to connect with the outdoors.",
+        "list3": "An impressive view can be a powerful reminder of the life of the deceased."
+      },
+
+      "blog3": {
+        "title": "3. On a boat: A floating memorial ceremony",
+        "paragraph1": "A funeral on a boat is a soothing way to say goodbye to a loved one, surrounded by water and nature. Whether you choose a trip on a river, a lake or even at sea, a boat provides an intimate setting for a ceremony that can be both symbolic and soothing.",
+        "paragraph2": "During a funeral on a boat, bereaved families can scatter the ashes of the deceased on the water or float flowers in the water as a final tribute. It offers a unique experience that can be comforting due to the serenity of the water and the feeling of freedom.",
+        "subheading": "Why choose a funeral on a boat?",
+        "list1": "The water symbolises letting go and the transition to another state of being.",
+        "list2": "A boat ride can give a sense of connection with nature and freedom.",
+        "list3": "The ceremony is intimate and can be fully tailored to personal wishes."
+      },
+
+      "conclusion": {
+        "subheading": "Why choose a special location?",
+        "paragraph1": "A funeral in a special location can be a powerful symbol of the deceased's life. By choosing a place that resonates with their personality, passions or lifestyle, you not only offer a respectful farewell, but also create an unforgettable memory for the bereaved. A personalised venue helps make the farewell more intimate and meaningful, and allows you to tailor the ceremony to the deceased's wishes and values.",
+        "paragraph2": "Whether you choose the tranquillity of nature, the splendour of a historic castle or the serenity of the water, a unique location makes it possible to organise a farewell that truly reflects who the deceased was and what he or she meant to you."
+      }
+    },
+    "celebrateLife": {
+      "heading": "Celebrate life your way: A personalised approach to saying goodbye",
+      "author": "By: Madelief | 25/08/2024 | 2 minutes read",
+      "paragraph1": "Saying goodbye to a loved one can be done in many different ways. Increasingly, people are choosing to celebrate the life of their loved one in a personal and unique way. In this article, we discuss options for a farewell that truly reflects who the deceased was, with a focus on personalisation.",
+      "paragraph2": "What does it mean to celebrate life? Instead of just focusing on the loss, a celebration of life can emphasise the beautiful moments that were shared. This can be done with music, photos, anecdotes and even a festive atmosphere.",
+      "button": "More on Blogs >>"
+    },
+    "burying": {
+      "filters": {
+        "heading": "Filters",
+        "burialCremationType": {
+          "label": "Burial or Cremation Type",
+          "burying": "Burying",
+          "cremation": "Cremation"
+        },
+        "priceRange": {
+          "heading": "Price Range",
+          "min": "Minimum Price",
+          "max": "Maximum Price"
+        },
+        "funeralType": {
+          "heading": "Type of Funeral",
+          "traditional": "Traditional Funeral",
+          "church": "Church Funeral",
+          "nonReligious": "Non-religious Burial",
+          "nature": "Nature Burial",
+          "eco": "Eco Funeral"
+        },
+        "paymentOptions": {
+          "heading": "Payment Options",
+          "prepayment": "Prepayment",
+          "installments": "Payment in Installments"
+        },
+        "numberOfGuests": {
+          "heading": "Number of Guests",
+          "lessThan50": "< 50",
+          "between50and100": "50 to 100",
+          "moreThan150": "> 150"
+        },
+        "location": {
+          "heading": "Location",
+          "accessibility": "Accessibility of public transport",
+          "parking": "Parking Facilities",
+          "quiet": "Quiet Environment",
+          "urban": "Urban Location"
+        },
+        "funeralLocation": {
+          "heading": "Funeral Location",
+          "church": "Church or religious building",
+          "funeralHome": "Funeral home with its own cemetery",
+          "outdoor": "Outdoor Location (e.g. park, forest, private land)",
+          "specificCemetery": "Specific Cemetery in the neighbourhood"
+        },
+        "specialArrangements": {
+          "heading": "Special Funeral Arrangements",
+          "homeConfinement": "Home Confinement",
+          "returnCountry": "Return to Country of Origin",
+          "seaman": "Seaman’s Funeral",
+          "directCremation": "Direct Cremation or Burial (without ceremony)",
+          "military": "Military Funeral Services",
+          "childrensFuneral": "Children's Funerals"
+        },
+        "facilities": {
+          "heading": "Type of Facilities",
+          "auditorium": "Auditorium for ceremony",
+          "funeralRoom": "Funeral room(s)",
+          "room24h": "24 hour room(s)",
+          "condolenceRoom": "Condolence room(s)",
+          "reception": "Possibility for reception",
+          "familyRoom": "Family room"
+        },
+        "transport": {
+          "heading": "Transport",
+          "funeralCar": "Funeral car",
+          "specialTransport": "Special Transport (e.g. carriage, motorbike)",
+          "familyTransport": "Family Transport"
+        },
+        "coffinOptions": {
+          "heading": "Coffin Options",
+          "traditionalWooden": "Traditional wooden coffin",
+          "biodegradable": "Biodegradable coffin",
+          "personalized": "Personalized coffin (e.g., paintings, themes)",
+          "luxury": "Luxury coffin"
+        },
+        "headstoneMonuments": {
+          "heading": "Headstone and Monuments",
+          "differentTypes": "Choice of different types of headstones",
+          "personalizedTombstones": "Possibility of personalized tombstones",
+          "greenMarkers": "Green or natural grave markers"
+        }
+      },
+      "search": {
+        "placeholder": "Search by location...",
+        "button": "Search",
+        "mapsButton": "Maps"
+      },
+      "loading": "Loading...",
+      "topDirectors": "Top directors",
+      "otherDirectors": "Other directors",
+      "noDescription": "No description available",
+      "unnamedDirector": "Unnamed Funeral Director"
+    }
+  },
+  "cremation": {
+    "type": {
+      "heading": "Burial or Cremation Type",
+      "options": ["Burying", "Cremation"]
+    },
+    "priceRange": {
+      "heading": "Price Range",
+      "min": 50,
+      "max": 10000
+    },
+    "funeralTypes": {
+      "heading": "Type of Funeral",
+      "options": [
+        "Traditional Funeral",
+        "Church Funeral",
+        "Non-religious Burial",
+        "Nature Burial",
+        "Eco Funeral"
+      ]
+    },
+    "paymentOptions": {
+      "heading": "Payment Options",
+      "options": ["Prepayment", "Payment in Installments"]
+    },
+    "guests": {
+      "heading": "Number of Guests",
+      "options": ["<50", "50-100", ">150"]
+    },
+    "location": {
+      "heading": "Location",
+      "options": [
+        "Accessibility of public transport",
+        "Parking Facilities",
+        "Quiet Environment",
+        "Urban Location"
+      ]
+    },
+    "funeralLocation": {
+      "heading": "Funeral Location",
+      "options": [
+        "Church or religious building",
+        "Funeral home with its own cemetery",
+        "Outdoor Location",
+        "Specific Cemetery in the neighbourhood"
+      ]
+    },
+    "arrangements": {
+      "heading": "Special Funeral Arrangements",
+      "options": [
+        "Home Confinement",
+        "Return to Country of Origin",
+        "Seaman’s Funeral",
+        "Direct Cremation or Burial",
+        "Military Funeral Services",
+        "Children’s Funerals"
+      ]
+    },
+    "facilities": {
+      "heading": "Type of Facilities",
+      "options": [
+        "Auditorium for ceremony",
+        "Funeral Room",
+        "24-hour room",
+        "Condolence room",
+        "Possibility for reception",
+        "Family room"
+      ]
+    },
+    "transport": {
+      "heading": "Transport",
+      "options": ["Funeral car", "Special Transport", "Family Transport"]
+    },
+    "coffinOptions": {
+      "heading": "Coffin Options",
+      "options": [
+        "Traditional wooden coffin",
+        "Biodegradable coffin",
+        "Personalized coffin",
+        "Luxury coffin"
+      ]
+    },
+    "headstoneMonuments": {
+      "heading": "Headstone and Monuments",
+      "options": [
+        "Choice of different types of headstones",
+        "Possibility of personalized tombstones",
+        "Green or natural grave markers"
+      ]
+    }
+  },
+
+  "login": {
+    "title": "ADMIN LOGIN",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "showPassword": "Show Password",
+    "signInButton": "Sign In",
+    "errorMessage": "Invalid credentials. Please try again."
+  },
+  "map-view": {
+    "searchbar": "Search",
+    "back": "back"
+  },
+
+  "filters": {
+    "type": {
+      "heading": "Funeral or Cremation Type",
+      "options": ["Funeral", "Cremation"]
+    },
+    "priceRange": {
+      "heading": "Price Range",
+      "min": 50,
+      "max": 10000
+    },
+    "funeralTypes": {
+      "heading": "Type of Funeral",
+      "options": [
+        "Traditional Funeral",
+        "Church Funeral",
+        "Non-Religious Burial",
+        "Nature Burial",
+        "Eco Funeral"
+      ]
+    },
+    "paymentOptions": {
+      "heading": "Payment Options",
+      "options": ["Advance Payment", "Installment Payment"]
+    },
+    "guests": {
+      "heading": "Number of Guests",
+      "options": ["<50", "50-100", ">150"]
+    },
+    "location": {
+      "heading": "Location",
+      "options": [
+        "Public Transport Accessibility",
+        "Parking Facilities",
+        "Quiet Environment",
+        "Urban Location"
+      ]
+    },
+    "funeralLocation": {
+      "heading": "Funeral Location",
+      "options": [
+        "Church or Religious Building",
+        "Funeral Home with Private Cemetery",
+        "Outdoor Location",
+        "Specific Local Cemetery"
+      ]
+    },
+    "arrangements": {
+      "heading": "Special Funeral Arrangements",
+      "options": [
+        "Home Lying-in-State",
+        "Repatriation to Home Country",
+        "Sea Burial",
+        "Direct Cremation or Burial",
+        "Military Funeral Services",
+        "Children's Funerals"
+      ]
+    },
+    "facilities": {
+      "heading": "Type of Facilities",
+      "options": [
+        "Auditorium for Ceremony",
+        "Funeral Room",
+        "24-Hour Room",
+        "Condolence Room",
+        "Reception Option",
+        "Family Room"
+      ]
+    },
+    "transport": {
+      "heading": "Transport",
+      "options": ["Hearse", "Special Transport", "Family Transport"]
+    },
+    "coffinOptions": {
+      "heading": "Coffin Options",
+      "options": [
+        "Traditional Wooden Coffin",
+        "Biodegradable Coffin",
+        "Personalized Coffin",
+        "Luxury Coffin"
+      ]
+    },
+    "headstoneMonuments": {
+      "heading": "Headstone and Monuments",
+      "options": [
+        "Choice of Various Types of Headstones",
+        "Option for Personalized Headstones",
+        "Green or Natural Grave Markers"
+      ]
+    }
+  },
+  "burial": {
+    "burying": "Burying",
+    "cremation": "Cremation",
+    "price_range": "Price Range",
+    "minimum_price": "Minimum Price",
+    "maximum_price": "Maximum Price",
+    "type_of_funeral": "Type of Funeral",
+    "traditional_funeral": "Traditional Funeral",
+    "church_funeral": "Church Funeral",
+    "non_religious_burial": "Non-religious Burial",
+    "nature_burial": "Nature Burial",
+    "eco_funeral": "Eco Funeral",
+    "payment_options": "Payment Options",
+    "prepayment": "Prepayment",
+    "payment_in_installments": "Payment in Installments",
+    "number_of_guests": "Number of Guests",
+    "location": "Location",
+    "public_transport_accessibility": "Accessibility of Public Transport",
+    "parking_facilities": "Parking Facilities",
+    "quiet_environment": "Quiet Environment",
+    "urban_location": "Urban Location",
+    "funeral_location": "Funeral Location",
+    "church_or_religious_building": "Church or Religious Building",
+    "funeral_home_with_private_cemetery": "Funeral Home with Private Cemetery",
+    "outdoor_location": "Outdoor Location (e.g. park, forest, private land)",
+    "specific_local_cemetery": "Specific Cemetery in the neighbourhood",
+    "special_funeral_arrangements": "Special Funeral Arrangements",
+    "home_confinement": "Home Confinement",
+    "return_to_country_of_origin": "Return to Country of Origin",
+    "seamans_funeral": "Seaman’s Funeral",
+    "direct_cremation_or_burial": "Direct Cremation or Burial (without ceremony)",
+    "military_funeral_services": "Military Funeral Services",
+    "childrens_funerals": "Children's Funerals",
+    "type_of_facilities": "Type of Facilities",
+    "auditorium_for_ceremony": "Auditorium for Ceremony",
+    "funeral_room": "Funeral Room",
+    "24_hour_rooms": "24-Hour Room",
+    "condolence_rooms": "Condolence Room",
+    "possibility_for_reception": "Possibility for Reception",
+    "family_room": "Family Room",
+    "transport": "Transport",
+    "transport_car": "Transport Car",
+    "Special_Transport": "Special Transport (e.g. carriage, motorbike)",
+    "family_transport": "Family Transport",
+    "coffin_options": "Coffin Options",
+    "traditional_wooden_coffin": "Traditional Wooden Coffin",
+    "biodegradable_coffin": "Biodegradable Coffin",
+    "personalized_coffin": "Personalized Coffin (e.g. paintings, images, themes)",
+    "luxury_coffin": "Luxury Coffin",
+    "headstone_and_monuments": "Headstone and Monuments",
+    "choice_of_various_types_of_headstones": "Choice of Various Types of Headstones",
+    "option_for_personalized_headstones": "Possibility of personalized tombstones",
+    "green_or_natural_grave_markers": "Green or Natural Grave Markers",
+    "top_directors": "Top Directors",
+    "other_directors": "Other directors"
+  },
+  "dashboard": {
+    "undertakers": "Undertakers",
+    "productsGrid": "Products Grid",
+    "noImage": "No Image",
+    "noTitle": "No Title",
+    "contacts": "Contacts",
+    "contactDetails": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "residence": "Residence",
+      "reason": "Reason",
+      "preferredContact": "Preferred Contact",
+      "contactTime": "Contact Time",
+      "funeralPreference": "Funeral Preference",
+      "comment": "Comment"
+    },
+    "productTitle": "Title",
+    "productImage": "Product Image",
+    "viewProduct": "View Product",
+    "addProduct": "Add Product",
+    "closeModal": "Close",
+    "saveProduct": "Save"
+  },
+
+  "burialPage": {
+    "filters": "Filters",
+    "burying": "Burying",
+    "cremation": "Cremation",
+    "maps": "Maps",
+    "loading": "Loading...",
+    "top_directors": "Top directors",
+    "other_directors": "Other directors",
+    "payment_options": "Payment Options",
+    "prepayment": "Prepayment",
+    "payment_in_installments": "Payment in Installments",
+    "number_of_guests": "Number of Guests",
+    "location": "Location",
+    "public_transport_accessibility": "Accessibility of Public Transport",
+    "parking_facilities": "Parking Facilities",
+    "quiet_environment": "Quiet Environment",
+    "urban_location": "Urban Location",
+    "funeral_location": "Funeral Location",
+    "church_or_religious_building": "Church or Religious Building",
+    "funeral_home_with_private_cemetery": "Funeral Home with Private Cemetery",
+    "outdoor_location": "Outdoor Location (e.g. park, forest, private land)",
+    "specific_cemetery_in_the_neighbourhood": "Specific Cemetery in the neighbourhood",
+    "special_funeral_arrangements": "Special Funeral Arrangements",
+    "home_confinement": "Home Confinement",
+    "return_to_country_of_origin": "Return to Country of Origin",
+    "seamans_funeral": "Seaman’s Funeral",
+    "direct_cremation_or_burial": "Direct Cremation or Burial",
+    "military_funeral_services": "Military Funeral Services",
+    "childrens_funerals": "Children's Funerals",
+    "type_of_facilities": "Type of Facilities",
+    "auditorium_for_ceremony": "Auditorium for Ceremony",
+    "funeral_room": "Funeral Room",
+    "24_hour_rooms": "24-Hour Room",
+    "condolence_rooms": "Condolence Room",
+    "possibility_for_reception": "Possibility for Reception",
+    "family_room": "Family Room",
+    "transport": "Transport",
+    "transport_car": "Transport Car",
+    "special_transport": "Special Transport (e.g. carriage, motorbike)",
+    "family_transport": "Family Transport",
+    "coffin_options": "Coffin Options",
+    "traditional_wooden_coffin": "Traditional Wooden Coffin",
+    "biodegradable_coffin": "Biodegradable Coffin",
+    "personalized_coffin": "Personalized Coffin (e.g. paintings, images, themes)",
+    "headstone_and_monuments": "Headstone and Monuments",
+    "choice_of_various_types_of_headstones": "Choice of Various Types of Headstones",
+    "option_for_personalized_headstones": "Possibility of personalized tombstones",
+    "green_or_natural_grave_markers": "Green or Natural Grave Markers"
+  },
+
+  "partner": {
+    "ourTrustedPartnersAndServices": "Onze vertrouwde partners & diensten",
+    "floralPartnersTitle": "Onze bloemistenpartners voor doordachte huldebetuigingen",
+    "floralPartnersDescription": "Van elegante kransen tot verfijnde bloemstukken – Ontdek onze aanbevolen bloemisten, die zich inzetten voor het creëren van oprechte huldebetuigingen voor een betekenisvol afscheid.",
+    "partner1": "Daily Flowers",
+    "partner2": "Amsterdamse boekenservice",
+    "partner3": "Bloemist Den Haag",
+    "memorialCardsTitle": "Herdenkingskaarten",
+    "memorialCardsDescription": "Onze geselecteerde partners bieden prachtig vervaardigde kaarten om geliefden op een persoonlijke manier te eren en te herinneren.",
+    "partner4": "Cards of Amsterdam",
+    "partner5": "Gedachtenis kaartjes",
+    "partner6": "Kaarten voor iedere gelegenheid",
+    "memorialStonesTitle": "Herdenkingsstenen & plaquettes",
+    "memorialStonesDescription": "Onze vertrouwde partners bieden stenen en plaquettes met gepersonaliseerde inscripties voor een betekenisvolle rustplaats.",
+    "partner7": "Grafstenen Nederland",
+    "partner8": "Steen met betekenis",
+    "partner9": "Steen met betekenis",
+    "casketsAndUrnsTitle": "Kisten & Urnen",
+    "casketsAndUrnsDescription": "Onze partners bieden een reeks prachtig vervaardigde kisten en urnen, met opties die het individu van uw dierbare respectvol eren.",
+    "partner10": "Urns",
+    "partner11": "Laatste bed",
+    "partner12": "Natuurgrafstenen"
+  },
+  "product": {
+    "navbar": "Navbar",
+    "top_section": {
+      "no_image": "No Image Available"
+    },
+    "description_section": {
+      "description_heading": "Description",
+      "services_heading": "Services",
+      "contact": "Contact",
+      "city_postal_code": "City/Postal Code"
+    },
+    "essential_information_section": {
+      "essential_information_heading": "Essential Information",
+      "guests_heading": "Guests",
+      "location_heading": "Location",
+      "facilities_heading": "Facilities",
+      "transport_heading": "Transport",
+      "coffin_options_heading": "Coffin Options",
+      "contact_information_heading": "Contact Information",
+      "email": "Email",
+      "price": "Price",
+      "headstone_monuments": "Headstone Monuments"
+    },
+    "contact_section": {
+      "contact_heading": "Contact",
+      "contact_description": "Do you have a question or need support? Feel free to contact {title} via the buttons on the right. You can easily send an email or contact them directly by phone. They are ready to help you 24/7."
+    },
+    "registration_form": {
+      "registration_form_heading": "Registration Form for Direct Contact",
+      "first_name": "First Name",
+      "surname": "Surname",
+      "email_address": "Email Address",
+      "phone_number": "Phone Number",
+      "city_of_residence": "City of Residence",
+      "reason_for_contact": "Reason for Contact",
+      "contact_preferences": "Contact Preferences",
+      "preferred_contact_time": "Preferred Contact Time",
+      "funeral_preferences": "Funeral Preferences",
+      "funeral": "Funeral",
+      "cremation": "Cremation",
+      "eco_funeral": "Eco-friendly funeral",
+      "non_religious": "Non-religious funeral"
+    }
+  },
+  "productDetail": {
+    "headings": [
+      {
+        "type": "h1",
+        "content": "Edit Product"
+      },
+      {
+        "type": "label",
+        "for": "type",
+        "content": "Type"
+      },
+      {
+        "type": "label",
+        "for": "funeralType",
+        "content": "Type of Funeral"
+      },
+      {
+        "type": "label",
+        "for": "payment",
+        "content": "Payment Options"
+      },
+      {
+        "type": "label",
+        "for": "arrangements",
+        "content": "Special Funeral Arrangements"
+      },
+      {
+        "type": "label",
+        "for": "location",
+        "content": "Location"
+      },
+      {
+        "type": "label",
+        "for": "funeralLocation",
+        "content": "Funeral Location"
+      },
+      {
+        "type": "label",
+        "for": "facilities",
+        "content": "Facilities"
+      },
+      {
+        "type": "label",
+        "for": "transport",
+        "content": "Transport"
+      },
+      {
+        "type": "label",
+        "for": "coffin",
+        "content": "Coffin"
+      },
+      {
+        "type": "label",
+        "for": "headstone",
+        "content": "Headstone & Monuments"
+      },
+      {
+        "type": "label",
+        "for": "guests",
+        "content": "Guests"
+      },
+      {
+        "type": "label",
+        "for": "email",
+        "content": "Email"
+      },
+      {
+        "type": "label",
+        "for": "file",
+        "content": "Upload File"
+      }
+    ],
+    "paragraphs": [
+      {
+        "type": "p",
+        "content": "Loading product details..."
+      }
+    ]
+  },
+
+  "view-product": {
+    "productPage": {
+      "sections": {
+        "description": {
+          "heading": "Description",
+          "services": "Services",
+          "contact": "Contact",
+          "cityPostalCode": "City/Postal Code"
+        },
+        "essentialInformation": {
+          "heading": "Essential Information",
+          "buttons": {
+            "funeralType": "Funeral Type",
+            "type": "Type"
+          },
+          "payment": "Payment",
+          "arrangements": "Arrangements"
+        },
+        "otherSections": {
+          "guests": "Guests",
+          "location": "Location",
+          "funeralLocation": "Funeral Location"
+        },
+        "facilities": {
+          "heading": "Facilities",
+          "transport": "Transport",
+          "coffinOptions": "Coffin Options"
+        },
+        "contactInformation": {
+          "heading": "Contact Information",
+          "email": "Email",
+          "price": "Price",
+          "headstoneMonuments": "Headstone Monuments"
+        }
+      },
+      "buttons": {
+        "edit": "Edit"
+      },
+      "messages": {
+        "noImageAvailable": "No Image Available"
+      }
+    }
+  },
+
+  "what-to-do": {
+    "hero": {
+      "whatToDo": "What to do",
+      "mainHeading": "What to do when your loved one dies"
+    },
+    "steps": {
+      "step1": {
+        "heading": "Step 1: Contact your GP",
+        "text": "Have the GP come as soon as possible to officially establish the death. This is an important first step to set everything in motion."
+      },
+      "step2": {
+        "heading": "Step 2: Inform the funeral director",
+        "text": "Contact the funeral director of your choice. They will guide you further in this process and help you arrange all the details."
+      },
+      "step3": {
+        "heading": "Step 3: Collect important documents",
+        "text": "Make sure you have documents such as the will and insurance papers to hand. This will help with smooth preparations."
+      },
+      "step4": {
+        "heading": "Step 4: Inform family and friends",
+        "text": "Take time to inform loved ones of the death. You can also ask for help from the funeral director to do this in a respectful manner."
+      }
+    },
+    "restAndCare": {
+      "heading": "Rest and Care after the farewell",
+      "text": "After the loss of a loved one, it is important to arrange everything calmly and step by step. Here is a gentle and clear guide to what you can do after the funeral or cremation:",
+      "list": {
+        "item1": "Thank you people: Send a card or message to thank everyone who offered support.",
+        "item2": "Arrange paperwork: Consider cancelling subscriptions, informing banks, and dealing with inheritance.",
+        "item3": "Process your grief: Take time to grieve. Seek support from family, friends, or a grief counsellor.",
+        "item4": "Commemorate your loved one: Plan moments to come together to remember your loved one, for example on the anniversary or death anniversary."
+      },
+      "finalText": "These steps will help you navigate through this difficult period in a calm manner."
+    },
+    "funeralInsurance": {
+      "heading": "Your Funeral Care properly arranged: Everything you need to know about Funeral Insurance",
+      "whatIs": {
+        "heading": "What is funeral insurance?",
+        "text": "Funeral insurance is a financial provision that covers the cost of your funeral so that your loved ones do not face unexpected expenses. By paying a monthly or annual premium, you ensure that your funeral is arranged according to your wishes, without financial pressure on your loved ones."
+      },
+      "types": {
+        "heading": "Types of funeral insurance",
+        "list": {
+          "item1": "Capital insurance: Upon death, your next of kin will receive an agreed amount of money. This amount can be used for the funeral but offers flexibility to spend the money as they wish. However, this requires them to organize the funeral themselves.",
+          "item2": "Natura insurance: Instead of paying out money, this insurance ensures that the cost of the funeral is covered. The insurer arranges the main parts of the funeral, such as the coffin, funeral transport, and the ceremony. This offers less flexibility but takes a lot of worry away from your next of kin.",
+          "item3": "Combination insurance: This policy combines the advantages of capital and in-kind insurance. Part of the funeral costs are covered directly by the insurer, while another part is paid as a cash sum to your next of kin. This is useful for extra wishes that fall outside the standard package."
+        }
+      },
+      "important": {
+        "heading": "Important: Even if you have insurance, choose your own funeral director",
+        "text": "It is essential to know that while funeral insurance covers the costs, you or your next of kin must choose a funeral director yourself. This means that even though the financial side is settled, the organisation and execution of the funeral must be done by a chosen funeral director. By thinking about this in advance and possibly already making a choice, you can save your next of kin a lot of worry during a difficult time."
+      },
+      "noInsurance": {
+        "heading": "What happens if you do not have funeral insurance?",
+        "text": "If you do not have funeral insurance, your next of kin will have to bear the full cost of your funeral. A funeral can range from €7,000 to €10,000, depending on the choices made. Without insurance, these costs have to be paid from your own resources or inheritance, which can be a big financial burden for many families. In addition to the financial worries, your next of kin will also have to deal with all the practical matters. This can be overwhelming, especially during an emotional time. Without clear guidelines or insurance, organising the funeral can become an arduous task. Funeral insurance not only provides financial security, but also ensures that many organisational aspects of the funeral are already taken care of."
+      },
+      "choosing": {
+        "heading": "What to look out for when choosing funeral insurance?",
+        "text": "When choosing a funeral insurance policy, it is important to pay attention to a few factors:",
+        "list": {
+          "item1": "Coverage: What costs and services are covered? This can range from basic provisions such as the coffin and funeral transport to more elaborate options such as flowers, music, and catering.",
+          "item2": "Contribution: How much do you have to pay and for how long? The premium often depends on your age, health, and the coverage chosen. The younger you are when you take out your policy, the lower the premium is usually.",
+          "item3": "Flexibility: Can you adjust the insurance if your wishes or circumstances change? Some insurance policies allow you to make interim changes, for example when you move house or change funeral wishes.",
+          "item4": "Exclusions: What is not covered? It is important to read the small print to avoid any costs that are not covered at the time the insurance is triggered."
+        }
+      },
+      "benefits": {
+        "heading": "Benefits of funeral insurance",
+        "text": "Funeral insurance offers several benefits:",
+        "list": {
+          "item1": "Financial peace: Your next of kin need not worry about the cost of your funeral.",
+          "item2": "Security: Your funeral wishes will be carried out as you wish, without burdening your loved ones with difficult choices.",
+          "item3": "Convenience: The funeral director takes care of the organisation, relieving your family during a difficult period."
+        }
+      },
+      "whenToClose": {
+        "heading": "When to close?",
+        "text": "It is wise to take out funeral insurance at a younger age, as the premiums will be lower. However, even later in life, taking out insurance can still be a good option to ensure that your next of kin are not left with financial worries."
+      },
+      "caseOfDeath": {
+        "heading": "What to do in case of death?",
+        "text": "When an insured person dies, the next of kin contact the funeral insurer. The insurer helps them arrange the funeral according to the policy terms and ensures that everything goes according to plan. This takes a lot of organisational pressure off the shoulders of the bereaved, allowing them to focus on saying goodbye."
+      },
+      "conclusion": {
+        "text": "Funeral insurance is therefore a valuable investment in the future. It offers financial security, relieves your next of kin, and ensures that your funeral is carried out according to your wishes. Taking out funeral insurance is an important step to ensure that everything is well arranged when the time comes."
+      }
+    }
+  },
+  "footer": {
+    "menu": "Menu",
+    "foundationFarewell": "Foundation Farewell for All",
+    "followStory": "Follow our Story",
+    "aboutUs": "About us",
+    "aboutUsDescription": "At Uitvaart Centrum Nederland, we will assist you in finding the right funeral director. We offer an independent and convenient platform where you can easily compare funeral directors based on price, location and service. This way, you can make a well-considered choice in a difficult time that suits your wishes. Transparency and objectiveness are our top priorities.",
+    "importantInformation": "Important Information"
+  },
+  "landingPage": {
+    "hero": "A death is tough enough. Make it a little less heavy by finding the perfect funeral director to meet your needs. Our website gives you access to a wide network of funeral directors throughout the Netherlands, carefully selected to meet your wishes. Whether your loved one is insured or not, we will help you organise a farewell that does justice to the life that has been lived.",
+    "funeralDirector": "Find a Funeral Director",
+    "burying": "Burying",
+    "cremation": "Cremation",
+    "maps": "Maps",
+    "funeralDirectorInThePicture": "Funeral Director in the Picture",
+    "uitvaartverzorging_van_der_spek": "Uitvaartverzorging Van der Spek",
+    "A_family_business_with_a_long_tradition_within_funeral_services": "A family business with a long tradition within funeral services",
+    "Modern_and_personalized_funeral_services": "Modern and personalized funeral services",
+    "Personal_and_respectful_funeral_services": "From traditional to modern and unique funeral services",
+    "stories": "Prepare yourself with these stories and tips",
+    "Natural_burial_in_the_Netherlands": "Nature burial, Back to Nature",
+    "A_natural_burial_is_a_sustainable_choice": "More and more people are choosing natural burial in the Netherlands. What are the advantages and what should look out for?",
+    "digital_estate_care_for_your_online_legacy": "Digital estate care for your online legacy",
+    "Eternal_reefs_memorial": "Eternal reefs: Turn your loved one's ashes into a living memorial",
+    "special_places": "The most special places you might not have thought of yet",
+    "celebrate_life": "Celebrate life in your own way"
+  },
+  "newblogs": {
+    "title": "All Burial and Cremation Options in the Netherlands: From Traditional to Innovative and Eco-Friendly",
+    "author": "Madelief",
+    "date": "18/08/2024",
+    "readTime": "15 minutes",
+    "intro": "In the Netherlands, there are indeed numerous options when it comes to burials and cremations. Besides the more common choices such as traditional burials and cremations, there are also various alternative and modern methods available, taking into account religious, cultural, ecological, and personal preferences. Below is a comprehensive overview of all types of burials and cremations possible in the Netherlands, including some emerging or niche forms.",
+    "burialOptionsTitle": "Burial Options in the Netherlands",
+    "traditionalBurial": {
+      "title": "Traditional Burial in a General or Private Cemetery",
+      "description1": "The body is buried in a grave at a cemetery.",
+      "description2": "Both general (municipal) cemeteries and private (church) cemeteries are available.",
+      "description3": "Option for a rented grave (usually 10 to 30 years) or a perpetual grave."
+    },
+    "naturalBurial": {
+      "title": "Natural Burial",
+      "description1": "The body is buried in a natural environment, such as a forest or nature reserve.",
+      "description2": "No headstone is used; graves are often marked with a natural memorial, such as a tree or shrub.",
+      "description3": "Biodegradable materials are used, such as a wooden or cardboard coffin.",
+      "description4": "Popular natural burial sites include Hillig Meer Natural Burial Ground and Heidepol."
+    },
+    "shroudBurial": {
+      "title": "Shroud Burial",
+      "description1": "Instead of a coffin, the body is wrapped in a biodegradable cloth or shroud.",
+      "description2": "This method is allowed at certain cemeteries and natural burial sites."
+    },
+    "islamicBurial": {
+      "title": "Islamic Burial",
+      "description1": "According to Islamic tradition, the deceased must be buried as soon as possible, usually within 24 hours.",
+      "description2": "The body is washed, wrapped in white cloth (kafaan), and buried facing Mecca.",
+      "description3": "Cremation is generally not permitted in Islam."
+    },
+    "jewishBurial": {
+      "title": "Jewish Burial",
+      "description1": "The body is buried in a simple, wooden coffin with minimal decoration.",
+      "description2": "The burial usually takes place within 24 hours, and cremation is not allowed under Jewish law.",
+      "description3": "No embalming or preservation of the body is used."
+    },
+    "catholicProtestantBurial": {
+      "title": "Catholic or Protestant Burial",
+      "description1": "The ceremony often takes place in a church, followed by a burial in a churchyard or private cemetery.",
+      "description2": "Catholics allow both burial and cremation, depending on personal preference.",
+      "description3": "Religious rites, including prayers, blessings, and a mass, are often performed."
+    },
+    "militaryBurial": {
+      "title": "Military Burial",
+      "description1": "For (former) military personnel, a ceremony with military honours is possible.",
+      "description2": "Military traditions are often followed, such as a rifle salute or the playing of the 'Last Post.'",
+      "description3": "The burial may take place at a military cemetery or a general cemetery."
+    },
+    "seaBurial": {
+      "title": "Sea Burial",
+      "description1": "The body is buried at sea after obtaining a special permit.",
+      "description2": "This is done in a biodegradable coffin or shroud, at a specific location in the sea.",
+      "description3": "Strict rules and permits from the government apply for both body burials and the scattering of ashes at sea."
+    },
+    "cremationOptionsTitle": "Cremation Options in the Netherlands",
+    "traditionalCremation": {
+      "title": "Traditional Cremation",
+      "description1": "The body is cremated in a crematorium, and the ashes are returned to the next of kin.",
+      "description2": "Ashes can be kept in an urn, scattered at a cemetery, at sea, or at a designated scattering field.",
+      "description3": "Ashes may also be incorporated into memorial jewellery or other objects."
+    },
+    "resomation": {
+      "title": "Resomation (Water Cremation)",
+      "description1": "An eco-friendly option where the body is dissolved in a water solution of potassium hydroxide under high pressure and temperature.",
+      "description2": "The remains are a powder, which, like cremation ashes, can be stored in an urn.",
+      "description3": "This method is emerging but not yet fully legal in the Netherlands (though discussions and trials are ongoing)."
+    },
+    "eternalReefs": {
+      "title": "Eternal Reefs",
+      "description1": "A portion of the ashes is mixed with concrete to create an artificial reef, which is then placed in the sea.",
+      "description2": "This method helps restore coral reefs and offers a unique, eco-friendly memorial option."
+    },
+    "ashScattering": {
+      "title": "Ash Scattering",
+      "description1": "The ashes of the deceased can be scattered in various places, such as at a scattering field at a cemetery, in nature, or at sea.",
+      "description2": "Scattering can also be done ceremonially with a balloon (where the ashes are released high in the air), or with fireworks, incorporating the ashes into the display."
+    },
+    "urnPlacement": {
+      "title": "Urn Placement",
+      "description1": "The urn containing the ashes of the deceased can be placed in a columbarium, an urn wall, at a cemetery, or in an urn garden.",
+      "description2": "This provides a fixed location where relatives can remember the deceased."
+    },
+    "memorialJewellery": {
+      "title": "Memorial Jewellery and Ash Diamonds",
+      "description1": "A small portion of the ashes can be made into jewellery, such as rings, necklaces, or bracelets.",
+      "description2": "Ashes can also be used to create a synthetic diamond, which can be worn or kept as a memorial."
+    },
+    "aerialAshScattering": {
+      "title": "Aerial Ash Scattering",
+      "description1": "The ashes can be scattered from a plane over a chosen location, such as a nature reserve or the sea.",
+      "description2": "This offers a unique and symbolic way to say goodbye."
+    },
+    "spaceCremation": {
+      "title": "Space Cremation",
+      "description1": "A small portion of the ashes of the deceased is sent into space in a capsule.",
+      "description2": "This is a unique option for those with a fascination for space or the universe."
+    },
+    "alternativeFormsTitle": "Alternative and Emerging Burial and Cremation Forms",
+    "cryomation": {
+      "title": "Cryomation (Freezing and Pulverisation)",
+      "description1": "A technique where the body is frozen with nitrogen and then mechanically pulverised. The remains can be buried in an eco-friendly way.",
+      "description2": "This method is not yet practiced in the Netherlands but is in development."
+    },
+    "composting": {
+      "title": "Composting (Humusation)",
+      "description1": "The body is composted in a controlled manner, breaking down into fertile soil.",
+      "description2": "This process is not yet available in the Netherlands, but there is interest in adopting it as an eco-friendly option."
+    },
+    "bodyFarm": {
+      "title": "Body Farm (Scientific Research)",
+      "description1": "The body can be donated to science, where it is used on a ‘Body Farm’ to study decomposition.",
+      "description2": "This helps improve forensic research, though it is not a common practice in the Netherlands (yet)."
+    },
+    "virtualRealityMemorials": {
+      "title": "Virtual Reality Memorials",
+      "description1": "With the rise of technology, it is now possible to hold virtual funeral services or memorials.",
+      "description2": "This can be done with VR headsets and 360° videos, allowing mourners from around the world to attend virtually."
+    },
+    "treeUrn": {
+      "title": "Tree Urn or Bios Urn",
+      "description1": "The ashes of the deceased are mixed with soil and plant nutrients, and a tree is planted.",
+      "description2": "This is a way to keep the memory of the deceased alive through the growth of a tree."
+    },
+    "floatingBurial": {
+      "title": "Floating Burial",
+      "description1": "A less known, alternative method where the body is placed on a floating platform on water, and naturally surrendered to the elements.",
+      "description2": "This method is mostly symbolic and depends on local regulations."
+    },
+    "mummification": {
+      "title": "Mummification",
+      "description1": "A very rare practice today, but some companies offer a process similar to ancient Egyptian mummification.",
+      "description2": "The body is embalmed and preserved rather than buried or cremated."
+    },
+    "summary": {
+      "title": "Summary of Burial and Cremation Options",
+      "description1": " There are countless options for burials and cremations in the Netherlands, ranging from traditional, religious, eco-friendly, technological, and innovative methods to commemorate a loved one. While some methods, such as cryogenic preservation and plastination,  are not yet available in the Netherlands, they are internationally  offered for those with specific wishes.",
+      "description2": "New developments in the funeral industry continue to emerge, so it is important to stay informed of the latest possibilities. Whether opting for an intimate natural burial, a high-tech digital legacy, or an artistic incorporation of ashes, there are countless ways to make a farewell personal and meaningful"
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "map-view": {
+    "searchbar": "Zoeken"
+  },
+
+  "partner": {
+    "ourTrustedPartnersAndServices": "Onze vertrouwde partners & diensten",
+    "floralPartnersTitle": "Onze bloemistenpartners voor doordachte huldebetuigingen",
+    "floralPartnersDescription": "Van elegante kransen tot verfijnde bloemstukken – Ontdek onze aanbevolen bloemisten, die zich inzetten voor het creëren van oprechte huldebetuigingen voor een betekenisvol afscheid.",
+    "partner1": "Daily Flowers",
+    "partner2": "Amsterdamse boekenservice",
+    "partner3": "Bloemist Den Haag",
+    "memorialCardsTitle": "Herdenkingskaarten",
+    "memorialCardsDescription": "Onze geselecteerde partners bieden prachtig vervaardigde kaarten om geliefden op een persoonlijke manier te eren en te herinneren.",
+    "partner4": "Cards of Amsterdam",
+    "partner5": "Gedachtenis kaartjes",
+    "partner6": "Kaarten voor iedere gelegenheid",
+    "memorialStonesTitle": "Herdenkingsstenen & plaquettes",
+    "memorialStonesDescription": "Onze vertrouwde partners bieden stenen en plaquettes met gepersonaliseerde inscripties voor een betekenisvolle rustplaats.",
+    "partner7": "Grafstenen Nederland",
+    "partner8": "Steen met betekenis",
+    "partner9": "Steen met betekenis",
+    "casketsAndUrnsTitle": "Kisten & Urnen",
+    "casketsAndUrnsDescription": "Onze partners bieden een reeks prachtig vervaardigde kisten en urnen, met opties die het individu van uw dierbare respectvol eren.",
+    "partner10": "Urns",
+    "partner11": "Laatste bed",
+    "partner12": "Natuurgrafstenen"
+  },
+  "product": {
+    "navbar": "Navigatiebalk",
+    "top_section": {
+      "no_image": "Geen afbeelding beschikbaar"
+    },
+    "description_section": {
+      "description_heading": "Beschrijving",
+      "services_heading": "Diensten",
+      "contact": "Contact",
+      "city_postal_code": "Stad/Postcode"
+    },
+    "essential_information_section": {
+      "essential_information_heading": "Essentiële Informatie",
+      "guests_heading": "Gasten",
+      "location_heading": "Locatie",
+      "facilities_heading": "Faciliteiten",
+      "transport_heading": "Vervoer",
+      "coffin_options_heading": "Kistopties",
+      "contact_information_heading": "Contactinformatie",
+      "email": "E-mail",
+      "price": "Prijs",
+      "headstone_monuments": "Grafsteenmonumenten"
+    },
+    "contact_section": {
+      "contact_heading": "Contact",
+      "contact_description": "Heb je een vraag of heb je ondersteuning nodig? Neem gerust contact op met {title} via de knoppen aan de rechterkant. Je kunt eenvoudig een e-mail sturen of hen direct telefonisch bereiken. Ze staan 24/7 klaar om je te helpen."
+    },
+    "registration_form": {
+      "registration_form_heading": "Registratieformulier voor Direct Contact",
+      "first_name": "Voornaam",
+      "surname": "Achternaam",
+      "email_address": "E-mailadres",
+      "phone_number": "Telefoonnummer",
+      "city_of_residence": "Woonplaats",
+      "reason_for_contact": "Reden voor Contact",
+      "contact_preferences": "Contactvoorkeuren",
+      "preferred_contact_time": "Gewenste contacttijd",
+      "funeral_preferences": "Begrafenisvoorkeuren",
+      "funeral": "Begrafenis",
+      "cremation": "Crematie",
+      "eco_funeral": "Milieuvriendelijke begrafenis",
+      "non_religious": "Niet-religieuze begrafenis"
+    }
+  },
+  "productDetail": {
+    "editProduct": "Bewerk Product",
+    "titlePlaceholder": "Titel",
+    "descriptionPlaceholder": "Beschrijving",
+    "servicesPlaceholder": "Diensten",
+    "contactPlaceholder": "Contact",
+    "cityPostalCodePlaceholder": "Stad/Postcode",
+    "typeLabel": "Type",
+    "selectTypeOption": "Selecteer type",
+    "buyingOption": "Aankoop",
+    "cremationOption": "Crematie",
+    "funeralTypeLabel": "Soort Begrafenis",
+    "selectFuneralTypeOption": "Selecteer begrafenis type",
+    "traditionalFuneralOption": "Traditionele Begrafenis",
+    "churchFuneralOption": "Kerkbegrafenis",
+    "nonReligiousBurialOption": "Niet-religieuze Begrafenis",
+    "natureBurialOption": "Natuurbegrafenis",
+    "ecoFuneralOption": "Eco Begrafenis",
+    "paymentLabel": "Betalingsopties",
+    "selectPaymentOption": "Selecteer betalingsoptie",
+    "prepaymentOption": "Vooruitbetaling",
+    "paymentInInstallmentsOption": "Betaling in termijnen",
+    "arrangementsLabel": "Speciale Begrafenisregelingen",
+    "selectSpecialArrangementsOption": "Selecteer speciale regelingen",
+    "homeConfinementOption": "Thuisisolatie",
+    "returnToCountryOfOriginOption": "Terugkeer naar land van herkomst",
+    "seamansFuneralOption": "Zeelieden Begrafenis",
+    "directCremationOrBurialOption": "Directe Crematie of Begrafenis",
+    "militaryFuneralServicesOption": "Militaire Begrafenisdiensten",
+    "childrensFuneralsOption": "Kinderbegrafenissen",
+    "locationLabel": "Locatie",
+    "selectLocationOption": "Selecteer Locatie",
+    "accessibilityOfPublicTransportOption": "Toegankelijkheid van openbaar vervoer",
+    "parkingFacilitiesOption": "Parkeervoorzieningen",
+    "quietEnvironmentOption": "Rustige Omgeving",
+    "urbanLocationOption": "Stedelijke Locatie",
+    "funeralLocationLabel": "Begrafenis Locatie",
+    "selectFuneralLocationOption": "Selecteer Begrafenis Locatie",
+    "churchOrReligiousBuildingOption": "Kerk of religieus gebouw",
+    "funeralHomeWithCemeteryOption": "Begrafenishuis met eigen begraafplaats",
+    "outdoorLocationOption": "Buitenlocatie (bijv. park, bos, privéterrein)",
+    "specificCemeteryOption": "Specifieke Begraafplaats in de buurt",
+    "facilitiesLabel": "Faciliteiten",
+    "selectFacilityTypeOption": "Selecteer Type Faciliteit",
+    "auditoriumForCeremonyOption": "Auditorium voor ceremonie",
+    "funeralRoomOption": "Begrafeniskamer(s)",
+    "twentyFourHourRoomOption": "24-uurs kamer(s)",
+    "condolenceRoomOption": "Condoleancekamer(s)",
+    "possibilityForReceptionOption": "Mogelijkheid voor receptie",
+    "familyRoomOption": "Familiekamer",
+    "transportLabel": "Vervoer",
+    "selectTransportTypeOption": "Selecteer Type Vervoer",
+    "funeralCarOption": "Begrafenisauto",
+    "specialTransportOption": "Speciaal Vervoer (bijv. koets, motorfiets)",
+    "familyTransportOption": "Familie Vervoer",
+    "coffinLabel": "Lijkkist",
+    "selectCoffinTypeOption": "Selecteer Type Lijkkist",
+    "traditionalWoodenCoffinOption": "Traditionele houten lijkkist",
+    "biodegradableCoffinOption": "Biologisch afbreekbare lijkkist",
+    "personalisedCoffinOption": "Gepersonaliseerde lijkkist (bijv. schilderijen, afbeeldingen, thema's)",
+    "luxuryCoffinOption": "Luxe lijkkist",
+    "pricePlaceholder": "Prijs",
+    "headstoneLabel": "Grafstenen & Monumenten",
+    "selectMonumentTypeOption": "Selecteer Type Monument",
+    "differentTypesOfHeadstonesOption": "Keuze uit verschillende soorten grafstenen",
+    "personalisedTombstonesOption": "Mogelijkheid voor gepersonaliseerde grafstenen",
+    "greenOrNaturalGraveMarkersOption": "Groene of natuurlijke grafmarkeringen",
+    "guestsPlaceholder": "Gasten",
+    "emailPlaceholder": "E-mail",
+    "fileUploadPlaceholder": "Bestand Uploaden",
+    "saveChangesButton": "Wijzigingen Opslaan",
+    "deleteProductButton": "Verwijder Product",
+    "loadingProductDetails": "Productdetails Laden..."
+  },
+  "view-product": {
+    "productPage": {
+      "sections": {
+        "description": {
+          "heading": "Beschrijving",
+          "services": "Diensten",
+          "contact": "Contact",
+          "cityPostalCode": "Stad/Postcode"
+        },
+        "essentialInformation": {
+          "heading": "Essentiële Informatie",
+          "buttons": {
+            "funeralType": "Soort Uitvaart",
+            "type": "Type"
+          },
+          "payment": "Betaling",
+          "arrangements": "Regelingen"
+        },
+        "otherSections": {
+          "guests": "Gasten",
+          "location": "Locatie",
+          "funeralLocation": "Uitvaartlocatie"
+        },
+        "facilities": {
+          "heading": "Faciliteiten",
+          "transport": "Transport",
+          "coffinOptions": "Kist Opties"
+        },
+        "contactInformation": {
+          "heading": "Contactinformatie",
+          "email": "E-mail",
+          "price": "Prijs",
+          "headstoneMonuments": "Grafstenen Monumenten"
+        }
+      },
+      "buttons": {
+        "edit": "Bewerken"
+      },
+      "messages": {
+        "noImageAvailable": "Geen Afbeelding Beschikbaar"
+      }
+    }
+  },
+  "what-to-do": {
+    "hero": {
+      "whatToDo": "Wat te doen",
+      "mainHeading": "Wat te doen wanneer je dierbare overlijdt"
+    },
+    "steps": {
+      "step1": {
+        "heading": "Stap 1: Neem contact op met je huisarts",
+        "text": "Laat de huisarts zo snel mogelijk komen om officieel het overlijden vast te stellen. Dit is een belangrijke eerste stap om alles in beweging te zetten."
+      },
+      "step2": {
+        "heading": "Stap 2: Informeer de uitvaartondernemer",
+        "text": "Neem contact op met de uitvaartondernemer van jouw keuze. Zij zullen je verder begeleiden in dit proces en helpen bij het regelen van alle details."
+      },
+      "step3": {
+        "heading": "Stap 3: Verzamel belangrijke documenten",
+        "text": "Zorg ervoor dat je documenten zoals het testament en verzekeringspapieren bij de hand hebt. Dit zal helpen bij een soepele voorbereiding."
+      },
+      "step4": {
+        "heading": "Stap 4: Informeer familie en vrienden",
+        "text": "Neem de tijd om geliefden op de hoogte te brengen van het overlijden. Je kunt ook de uitvaartondernemer om hulp vragen om dit op een respectvolle manier te doen."
+      }
+    },
+    "restAndCare": {
+      "heading": "Rust en zorg na het afscheid",
+      "text": "Na het verlies van een dierbare is het belangrijk om alles rustig en stap voor stap te regelen. Hier is een zachte en duidelijke gids voor wat je kunt doen na de uitvaart of crematie:",
+      "list": {
+        "item1": "Bedank mensen: Stuur een kaart of bericht om iedereen te bedanken die steun heeft geboden.",
+        "item2": "Regel papierwerk: Overweeg het annuleren van abonnementen, het informeren van banken en het omgaan met erfenissen.",
+        "item3": "Verwerk je verdriet: Neem de tijd om te rouwen. Zoek steun bij familie, vrienden of een rouwconsulent.",
+        "item4": "Herdenk je dierbare: Plan momenten om samen te komen om je dierbare te herinneren, bijvoorbeeld op de verjaardag of sterfdag."
+      },
+      "finalText": "Deze stappen zullen je helpen om deze moeilijke periode op een rustige manier te doorstaan."
+    },
+    "funeralInsurance": {
+      "heading": "Jouw Uitvaartzorg goed geregeld: Alles wat je moet weten over Uitvaartverzekeringen",
+      "whatIs": {
+        "heading": "Wat is een uitvaartverzekering?",
+        "text": "Een uitvaartverzekering is een financiële voorziening die de kosten van je uitvaart dekt, zodat je dierbaren geen onverwachte uitgaven hebben. Door een maandelijkse of jaarlijkse premie te betalen, zorg je ervoor dat je uitvaart wordt geregeld volgens jouw wensen, zonder financiële druk op je dierbaren."
+      },
+      "types": {
+        "heading": "Soorten uitvaartverzekeringen",
+        "list": {
+          "item1": "Kapitaalverzekering: Bij overlijden ontvangt je naaste een afgesproken geldbedrag. Dit bedrag kan worden gebruikt voor de uitvaart maar biedt flexibiliteit om het geld naar eigen inzicht te besteden. Dit vereist echter dat zij de uitvaart zelf organiseren.",
+          "item2": "Natura verzekering: In plaats van geld uit te keren, zorgt deze verzekering ervoor dat de kosten van de uitvaart gedekt zijn. De verzekeraar regelt de belangrijkste onderdelen van de uitvaart, zoals de kist, uitvaarttransport en de ceremonie. Dit biedt minder flexibiliteit maar neemt veel zorgen weg van je naaste.",
+          "item3": "Combinatieverzekering: Deze polis combineert de voordelen van kapitaal- en natura verzekering. Een deel van de uitvaartkosten wordt direct door de verzekeraar gedekt, terwijl een ander deel wordt uitgekeerd als een geldbedrag aan je naaste. Dit is handig voor extra wensen die buiten het standaardpakket vallen."
+        }
+      },
+      "important": {
+        "heading": "Belangrijk: Zelfs als je een verzekering hebt, kies je eigen uitvaartondernemer",
+        "text": "Het is essentieel om te weten dat hoewel de uitvaartverzekering de kosten dekt, jij of je nabestaanden zelf een uitvaartondernemer moeten kiezen. Dit betekent dat hoewel de financiële kant is geregeld, de organisatie en uitvoering van de uitvaart moet worden gedaan door een gekozen uitvaartondernemer. Door hier van tevoren over na te denken en eventueel al een keuze te maken, kun je je nabestaanden veel zorgen besparen tijdens een moeilijke tijd."
+      },
+      "noInsurance": {
+        "heading": "Wat gebeurt er als je geen uitvaartverzekering hebt?",
+        "text": "Als je geen uitvaartverzekering hebt, zullen je nabestaanden de volledige kosten van je uitvaart moeten dragen. Een uitvaart kan variëren van €7.000 tot €10.000, afhankelijk van de gemaakte keuzes. Zonder verzekering moeten deze kosten worden betaald uit eigen middelen of erfenis, wat een grote financiële last kan zijn voor veel gezinnen. Daarnaast moeten je nabestaanden ook alle praktische zaken regelen. Dit kan overweldigend zijn, vooral in een emotionele tijd. Zonder duidelijke richtlijnen of verzekering kan het organiseren van de uitvaart een zware taak worden. Een uitvaartverzekering biedt niet alleen financiële zekerheid, maar zorgt er ook voor dat veel organisatorische aspecten van de uitvaart al zijn geregeld."
+      },
+      "choosing": {
+        "heading": "Waarop letten bij het kiezen van een uitvaartverzekering?",
+        "text": "Bij het kiezen van een uitvaartverzekeringspolis is het belangrijk om op een aantal factoren te letten:",
+        "list": {
+          "item1": "Dekking: Welke kosten en diensten worden gedekt? Dit kan variëren van basisvoorzieningen zoals de kist en uitvaarttransport tot meer uitgebreide opties zoals bloemen, muziek en catering.",
+          "item2": "Bijdrage: Hoeveel moet je betalen en voor hoe lang? De premie hangt vaak af van je leeftijd, gezondheid en de gekozen dekking. Hoe jonger je bent wanneer je je polis afsluit, hoe lager de premie meestal is.",
+          "item3": "Flexibiliteit: Kun je de verzekering aanpassen als je wensen of omstandigheden veranderen? Sommige verzekeringspolissen staan je toe om tussentijdse wijzigingen aan te brengen, bijvoorbeeld wanneer je verhuist of je uitvaartwensen verandert.",
+          "item4": "Uitsluitingen: Wat wordt er niet gedekt? Het is belangrijk om de kleine lettertjes te lezen om eventuele kosten die niet worden gedekt op het moment dat de verzekering wordt geactiveerd te voorkomen."
+        }
+      },
+      "benefits": {
+        "heading": "Voordelen van een uitvaartverzekering",
+        "text": "Een uitvaartverzekering biedt verschillende voordelen:",
+        "list": {
+          "item1": "Financiële gemoedsrust: Je naaste hoeft zich geen zorgen te maken over de kosten van je uitvaart.",
+          "item2": "Zekerheid: Je uitvaartwensen worden uitgevoerd zoals jij dat wilt, zonder je geliefden te belasten met moeilijke keuzes.",
+          "item3": "Gemak: De uitvaartondernemer neemt de organisatie voor haar rekening, waardoor je familie ontlast wordt tijdens een moeilijke periode."
+        }
+      },
+      "whenToClose": {
+        "heading": "Wanneer afsluiten?",
+        "text": "Het is verstandig om op jonge leeftijd een uitvaartverzekering af te sluiten, aangezien de premies dan lager zullen zijn. Echter, zelfs later in het leven kan het afsluiten van een verzekering nog steeds een goede optie zijn om ervoor te zorgen dat je nabestaanden geen financiële zorgen hebben."
+      },
+      "caseOfDeath": {
+        "heading": "Wat te doen in geval van overlijden?",
+        "text": "Wanneer een verzekerde persoon overlijdt, nemen de nabestaanden contact op met de uitvaartverzekeraar. De verzekeraar helpt hen bij het regelen van de uitvaart volgens de polisvoorwaarden en zorgt ervoor dat alles volgens plan verloopt. Dit neemt veel organisatorische druk van de schouders van de nabestaanden, waardoor zij zich kunnen concentreren op het afscheid nemen."
+      },
+      "conclusion": {
+        "text": "Een uitvaartverzekering is daarom een waardevolle investering in de toekomst. Het biedt financiële zekerheid, ontlast je nabestaanden en zorgt ervoor dat je uitvaart wordt uitgevoerd volgens jouw wensen. Het afsluiten van een uitvaartverzekering is een belangrijke stap om ervoor te zorgen dat alles goed is geregeld wanneer de tijd daar is."
+      }
+    }
+  }
+}

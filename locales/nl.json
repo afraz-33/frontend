@@ -1,0 +1,907 @@
+{
+  "navbar": {
+    "logoAltText": "Logo"
+  },
+  "contact": {
+    "header": "Neem contact met ons op",
+    "questions": "Vragen over een specifieke uitvaart of regeling?",
+    "description1": "Onze aangesloten uitvaartverzorgers bij Uitvaartcentrum Nederland bieden een scala aan diensten die op uw wensen zijn afgestemd. Voor elke regeling worden de contactgegevens van de betreffende uitvaartverzorger verstrekt. Op desktop bevindt deze informatie zich in de rechterkolom onder de foto's; op mobiel verschijnt deze onderaan de pagina. Voor vragen, zoals een persoonlijk consult of details van een ceremonie, kunt u rechtstreeks contact opnemen met de uitvaartverzorger. Zij voorzien u van alle informatie over beschikbare opties en regelingen.",
+    "description2": "Bekijk gedetailleerde informatie over uitvaarten in Nederland",
+    "descriptionLinkText": "hier",
+    "description3": "Als uw vraag niet is beantwoord, kunt u contact opnemen met onze klantenservice via",
+    "customerServiceEmail": "info@uitvaartcentrumnederland.nl",
+    "visitingAddressHeader": "Bezoekadres",
+    "postalAddressHeader": "Postadres",
+    "address": {
+      "line1": "Uitvaart Centrum Nederland",
+      "line2": "Faas Wilkesstraat 353",
+      "line3": "1053HX, Amsterdam"
+    },
+    "socialMediaAltTexts": {
+      "instagram": "instagram",
+      "linkedin": "linkedin",
+      "facebook": "facebook",
+      "tiktok": "tiktok",
+      "twitter": "twitter"
+    },
+    "contactDetails": {
+      "emailLabel": "E-mail",
+      "kvkLabel": "KvK",
+      "btwLabel": "BTW nr."
+    },
+    "formHeader": "Neem contact op met Uitvaartcentrum Nederland",
+    "formFields": {
+      "personalInfo": "Persoonlijke informatie:",
+      "firstName": "Voornaam",
+      "surname": "Achternaam",
+      "email": "E-mailadres",
+      "phone": "Telefoon",
+      "additionalComments": "Aanvullende opmerkingen"
+    },
+    "formButton": "Verstuur"
+  },
+  "about": {
+    "heading": "Over Uitvaartcentrum Nederland",
+    "paragraph1": "Bij Uitvaartcentrum Nederland begrijpen we dat het plannen van een uitvaart een emotioneel en vaak overweldigend proces is. In deze moeilijke tijden kan het nemen van weloverwogen beslissingen uitdagend aanvoelen, en daar komen wij in beeld. Onze missie is om u te ondersteunen door een transparant en gebruiksvriendelijk platform te bieden om de juiste uitvaartverzorger te vinden die aan uw behoeften en verwachtingen voldoet.",
+    "paragraph2": "Wij bieden een onafhankelijke service waarmee u uitvaartverzorgers kunt vergelijken op basis van belangrijke factoren zoals prijs, locatie en aangeboden diensten. Zo kunt u een weloverwogen keuze maken die aansluit bij uw voorkeuren en budget.",
+    "heading2": "Wat doet Uitvaartcentrum Nederland?",
+    "paragraph3": "Uitvaartcentrum Nederland is meer dan alleen een platform. Wij zijn er om te ondersteunen, te begeleiden en een helpende hand te bieden in tijden van verlies. Op ons platform vindt u:",
+    "strong1": "Een uitgebreid netwerk van uitvaartverzorgers:",
+    "li1": "Wij werken samen met een groot aantal uitvaartverzorgers die een breed scala aan diensten aanbieden, van traditioneel tot gepersonaliseerd en uniek.",
+    "strong2": "Gemak en transparantie:",
+    "li2": "Nabestaanden kunnen eenvoudig de juiste dienstverlener vinden met onze heldere informatie en gebruiksvriendelijke indeling. Ondersteuning in een moeilijke tijd: Naast een overzicht van uitvaartopties bieden wij begeleiding en advies, zodat u de juiste keuzes kunt maken in een uitdagende periode.",
+    "strong3": "Maatschappelijke verantwoordelijkheid:",
+    "li3": "Door een uitvaart via ons platform te regelen, steunt u indirect de Stichting Afscheid Voor Iedereen. Uw keuze maakt het mogelijk dat iedereen in Nederland een waardig afscheid krijgt, zelfs als ze zelf niet over de middelen beschikken.",
+    "paragraph4": "Uitvaartcentrum Nederland en de Stichting Afscheid Voor Iedereen delen een gemeenschappelijk doel: elk leven eren en herinneren. Samen maken we het verschil zodat elke persoon in Nederland, ongeacht hun omstandigheden, respectvol wordt herinnerd en geëerd.",
+    "paragraph5": "Uitvaartcentrum Nederland is trots op de samenwerking met de Stichting Afscheid Voor Iedereen. Lees meer op de pagina Stichting Afscheid Voor Iedereen. Wij doneren 9% van alle opbrengsten die via ons platform worden gegenereerd aan deze bijzondere stichting. De stichting speelt een cruciale rol in het bieden van waardigheid en respect aan mensen die geen familie of financiële middelen hebben om uitvaartkosten te dekken. Voor hen zorgt de Stichting Afscheid Voor Iedereen ervoor dat een mooi en respectvol afscheid toch mogelijk is.",
+    "heading3": "Waarom de Stichting Afscheid Voor Iedereen zo belangrijk is",
+    "paragraph6": "In onze samenleving zijn er helaas mensen zonder een steunnetwerk of financiële middelen. Zonder deze middelen kan een afscheid soms eenzaam of zelfs ongezien verlopen. De Stichting Afscheid Voor Iedereen komt op voor deze kwetsbare groep en zorgt ervoor dat elk leven met zorg wordt herdacht. De stichting regelt niet alleen de praktische aspecten van de uitvaart, maar voegt ook emotionele waarde toe aan het afscheid, zodat elke persoon wordt gezien en gewaardeerd.",
+    "paragraph7": "Door het werk van de stichting kan iedereen in Nederland rekenen op een menselijk en respectvol afscheid. De inzet van de Stichting Afscheid Voor Iedereen weerspiegelt onze gedeelde visie: elk leven verdient een mooi en waardig einde, ongeacht sociale of financiële omstandigheden. Dankzij de steun van Uitvaartcentrum Nederland kunnen zij deze belangrijke missie blijven nastreven."
+  },
+
+  "blogs": {
+    "heading": "Blogs, verhalen, tips en informatie",
+
+    "blog1": {
+      "title": "Natuurlijke begrafenis, terug naar de natuur",
+      "author": "Door: Madelief | 01/09/2024 | 2 minuten leesduur",
+      "paragraph1": "Steeds meer mensen kiezen voor een natuurlijke begrafenis als hun laatste rustplaats. Natuurlijke begrafenis is een duurzame en milieuvriendelijke manier van begraven die letterlijk terugkeert naar de natuur. In dit artikel leggen we uit wat natuurlijke begrafenis precies inhoudt, waarom het steeds populairder wordt en wat de voordelen zijn voor zowel het milieu als de nabestaanden.",
+      "subheading1": "Wat is natuurlijke begrafenis?",
+      "paragraph2": "Natuurlijke begrafenis houdt in dat een lichaam op een natuurlijke manier wordt begraven, zonder bijvoorbeeld een grafsteen of beton. De graven bevinden zich in een natuurlijke omgeving zoals een bos of heide, en worden niet gemarkeerd met een grafsteen, maar soms met een boom of struik.",
+      "subheading2": "Waarom kiezen voor een natuurlijke begrafenis?",
+      "list1": "Duurzaamheid: Het is een milieuvriendelijk alternatief voor traditionele begrafenissen.",
+      "list2": "Rustige, natuurlijke omgeving: Nabestaanden kunnen comfort vinden in de serene omgeving van de natuur.",
+      "list3": "Eenvoudig en puur: De focus ligt op het natuurlijke proces van leven en dood.",
+      "subheading3": "Hoe werkt het?",
+      "paragraph3": "Natuurlijke begrafenis maakt gebruik van biologisch afbreekbare materialen, en graven worden vaak zorgvuldig onderhouden door natuurbeschermingsorganisaties. Het biedt een plek waar de natuur het overneemt en waar de overledene opgaat in de levenscyclus."
+    },
+
+    "blog2": {
+      "title": "Digitale erfenis: zorg voor je online erfenis",
+      "author": "Door: Madelief | 03/09/2024 | 2 minuten leesduur",
+      "paragraph1": "In onze moderne wereld speelt een groot deel van ons leven zich online af. Van sociale media tot e-mailaccounts en online abonnementen, je digitale erfenis kan een groot en belangrijk onderdeel van je erfenis zijn. Maar wat gebeurt er met al die data wanneer je er niet meer bent? In dit artikel bespreken we hoe je je digitale erfenis kunt beheren, en geven we tips om ervoor te zorgen dat je online accounts en gegevens op een respectvolle manier worden afgesloten.",
+      "subheading1": "Wat is een digitale erfenis?",
+      "paragraph2": "Een digitale erfenis verwijst naar alle online gegevens en accounts die iemand achterlaat na de dood. Dit kan variëren van Facebook en Instagram, tot bankrekeningen, abonnementen op streamingdiensten en zelfs cryptocurrency.",
+      "subheading2": "Waarom is het belangrijk om je digitale erfenis op orde te hebben?",
+      "paragraph3": "Het niet regelen van je digitale erfenis kan ongemakken voor nabestaanden veroorzaken. Accounts kunnen worden gehackt, gevoelige informatie kan in verkeerde handen vallen, of familieleden blijven achter met de vraag hoe ze bepaalde accounts moeten beheren.",
+      "subheading3": "Tips voor het regelen van je digitale erfenis:",
+      "list1": "Maak een lijst van al je online accounts en bewaar deze op een veilige plek.",
+      "list2": "Stel duidelijke instructies op voor je nabestaanden.",
+      "list3": "Overweeg het opstellen van een digitaal testament via een professionele dienst."
+    },
+
+    "blog3": {
+      "title": "Ewige riffen: zet de as van je dierbare om in een levend gedenkteken",
+      "author": "Door: Madelief | 29/08/2024 | 2 minuten leesduur",
+      "paragraph1": "Een speciale manier om een dierbare te herdenken is door hun as te verwerken in een Eternal Reef, een levend gedenkteken in de oceaan. In dit artikel vertellen we je wat Eternal Reefs zijn en hoe deze milieuvriendelijke keuze een mooie, blijvende herinnering kan creëren.",
+      "subheading1": "Wat zijn Eternal Reefs?",
+      "paragraph2": "Eternal Reefs zijn betonnen structuren die zijn ontworpen om koraalriffen te ondersteunen. Het mengen van de as van je dierbare met het beton creëert een uniek gedenkteken dat bijdraagt aan de herstel van de oceaan.",
+      "subheading2": "Waarom kiezen voor een Eternal Reef?",
+      "list1": "Milieuvriendelijk: Het helpt de natuur door het ondersteunen van het herstel van koraalriffen.",
+      "list2": "Uniek gedenkteken: In plaats van een traditionele urn of graf krijgt je dierbare een blijvende plek in de natuur.",
+      "list3": "Speciale ceremonie: Families kunnen deelnemen aan het plaatsen van het Eternal Reef in de oceaan.",
+      "subheading3": "Hoe werkt het?",
+      "paragraph3": "Na de crematie wordt een deel van de as gemengd met een speciaal betonmengsel. Dit vormt de basis voor een rifstructuur die in de oceaan wordt geplaatst, waar het dienst doet als een habitat voor zeedieren."
+    },
+
+    "specialPlaces": {
+      "heading": "De meest speciale plekken die je misschien nog niet hebt overwogen om afscheid te nemen",
+      "author": "Door: Madelief | 25/08/2024 | 6 minuten leesduur",
+      "paragraph1": "Afscheid nemen van een dierbare is een van de meest emotionele en gedenkwaardige momenten in ons leven. Het is niet alleen een kans om te rouwen, maar ook een gelegenheid om het leven van de overledene te reflecteren en te koesteren wat hij of zij heeft achtergelaten. Een goed gekozen locatie kan deze ervaring verrijken en helpen om op een betekenisvolle manier afscheid te nemen. Terwijl traditionele begrafenislocaties zoals kerken en begraafplaatsen nog steeds de norm zijn, kiezen steeds meer mensen voor unieke en persoonlijke plekken die de band met hun dierbare weerspiegelen.",
+      "paragraph2": "In dit artikel delen we enkele ongewone en minder traditionele begrafenislocaties die je misschien nog niet hebt overwogen, maar die de ceremonie een speciale en onvergetelijke sfeer kunnen geven.",
+
+      "blog1": {
+        "title": "1. Aan het strand: Rust en sereniteit aan zee",
+        "paragraph1": "Een begrafenis aan zee biedt een serene en troostende omgeving, waar het geluid van de golven en de frisse zeelucht helpen om afscheid te nemen in harmonie. Het strand is niet alleen een symbolische plek van rust en overgave, maar ook van continuïteit, aangezien het water altijd in beweging is. Deze locatie kan een troostende setting bieden voor families die de cyclische aard van het leven willen benadrukken.",
+        "paragraph2": "Met een begrafenis op het strand kun je kiezen voor een intieme ceremonie bij zonsondergang, waarbij de natuur het decor vormt. Nabestaanden kunnen bloemen of schelpen in het water werpen als laatste eerbetoon, of de as van de overledene in de zee verspreiden, wat vaak een gevoel van verbinding met de natuur biedt.",
+        "subheading": "Waarom kiezen voor een strandbegrafenis?",
+        "list1": "Rustgevende geluiden van de natuur, zoals het ruisen van de golven.",
+        "list2": "Het symboliseert eeuwigheid en eenheid met de natuur.",
+        "list3": "De vrijheid om een ceremonie in de open lucht te houden, met de mogelijkheid om persoonlijke accenten toe te voegen."
+      },
+
+      "blog2": {
+        "title": "2. In de bergen: Natuurlijke schoonheid en hoogtepunten van het leven",
+        "paragraph1": "Voor natuurliefhebbers of avonturiers kan een begrafenis in de bergen een prachtige en symbolische manier zijn om afscheid te nemen. Bergen symboliseren vaak kracht, vastberadenheid en het overwinnen van uitdagingen, wat het een betekenisvolle plek maakt om de laatste eer te betuigen aan een dierbare.",
+        "paragraph2": "Een ceremonie in de bergen biedt een intieme sfeer, met de natuur als getuige. Het gevoel van eenheid met de natuur, frisse lucht en indrukwekkende uitzichten bieden een moment van reflectie en comfort. Nabestaanden kunnen bijvoorbeeld naar een specifieke plek wandelen waar de ceremonie plaatsvindt, of bloemen achterlaten op een speciale top als eerbetoon.",
+        "subheading": "Waarom kiezen voor een begrafenis in de bergen?",
+        "list1": "De bergen bieden een krachtig en sereen decor dat troost en inspiratie biedt.",
+        "list2": "Het is een perfecte plek voor natuurliefhebbers of mensen die graag verbinding maken met de buitenlucht.",
+        "list3": "Een indrukwekkend uitzicht kan een krachtige herinnering zijn aan het leven van de overledene."
+      },
+
+      "blog3": {
+        "title": "3. Op een boot: Een drijvend herdenkingsceremonie",
+        "paragraph1": "Een begrafenis op een boot is een rustgevende manier om afscheid te nemen van een dierbare, omgeven door water en natuur. Of je nu kiest voor een trip op een rivier, een meer of zelfs op zee, een boot biedt een intieme setting voor een ceremonie die symboliseert hoe de ziel de reis naar het onbekende maakt.",
+        "paragraph2": "Op een boot kun je de as van de overledene over het water verspreiden, wat kan helpen om een gevoel van vrijheid en verbondenheid te creëren. Familieleden kunnen de ceremonie bijwonen, terwijl ze rustig over het water varen en samen reflecteren op het leven dat werd geleefd.",
+        "subheading": "Waarom kiezen voor een begrafenis op een boot?",
+        "list1": "Het water symboliseert de reis van het leven en het onvermijdelijke afscheid.",
+        "list2": "Een rustige en intieme ervaring waarbij de natuur centraal staat.",
+        "list3": "De mogelijkheid om de as van de overledene over het water te verspreiden en een blijvende herinnering te creëren."
+      }
+    }
+  },
+
+  "cremation": {
+    "type": {
+      "heading": "Type Begrafenis of Crematie",
+      "options": ["Begrafenis", "Crematie"]
+    },
+    "priceRange": {
+      "heading": "Prijsklasse",
+      "min": 50,
+      "max": 10000
+    },
+    "funeralTypes": {
+      "heading": "Soort Uitvaart",
+      "options": [
+        "Traditionele Uitvaart",
+        "Kerkelijke Uitvaart",
+        "Niet-religieuze Begrafenis",
+        "Natuurbegrafenis",
+        "Eco-uitvaart"
+      ]
+    },
+    "paymentOptions": {
+      "heading": "Betalingsopties",
+      "options": ["Vooruitbetaling", "Betaling in Termijnen"]
+    },
+    "guests": {
+      "heading": "Aantal Gasten",
+      "options": ["<50", "50-100", ">150"]
+    },
+    "location": {
+      "heading": "Locatie",
+      "options": [
+        "Bereikbaarheid met openbaar vervoer",
+        "Parkeervoorzieningen",
+        "Rustige Omgeving",
+        "Stedelijke Locatie"
+      ]
+    },
+    "funeralLocation": {
+      "heading": "Uitvaartlocatie",
+      "options": [
+        "Kerk of religieus gebouw",
+        "Uitvaartcentrum met eigen begraafplaats",
+        "Buitenlocatie",
+        "Specifieke begraafplaats in de buurt"
+      ]
+    },
+    "arrangements": {
+      "heading": "Speciale Uitvaartarrangementen",
+      "options": [
+        "Thuisopbaring",
+        "Repatriëring naar Land van Herkomst",
+        "Zeemansbegrafenis",
+        "Directe Crematie of Begrafenis",
+        "Militaire Uitvaartdiensten",
+        "Kinderuitvaarten"
+      ]
+    },
+    "facilities": {
+      "heading": "Type Faciliteiten",
+      "options": [
+        "Auditorium voor ceremonie",
+        "Uitvaartkamer",
+        "24-uurs kamer",
+        "Condoleancekamer",
+        "Mogelijkheid voor receptie",
+        "Familiekamer"
+      ]
+    },
+    "transport": {
+      "heading": "Transport",
+      "options": ["Rouwauto", "Speciaal Transport", "Familietransport"]
+    },
+    "coffinOptions": {
+      "heading": "Kistopties",
+      "options": [
+        "Traditionele houten kist",
+        "Biologisch afbreekbare kist",
+        "Gepersonaliseerde kist",
+        "Luxe kist"
+      ]
+    },
+    "headstoneMonuments": {
+      "heading": "Grafstenen en Monumenten",
+      "options": [
+        "Keuze uit verschillende soorten grafstenen",
+        "Mogelijkheid voor gepersonaliseerde grafstenen",
+        "Groene of natuurlijke grafmarkeringen"
+      ]
+    }
+  },
+  "login": {
+    "title": "ADMINISTRATOR LOGIN",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Wachtwoord",
+    "showPassword": "Toon Wachtwoord",
+    "signInButton": "Inloggen",
+    "errorMessage": "Ongeldige inloggegevens. Probeer het opnieuw."
+  },
+  "map-view": {
+    "searchbar": "Zoeken",
+    "back": "rug"
+  },
+
+  "filters": {
+    "type": {
+      "heading": "Soort Begrafenis of Crematie",
+      "options": ["Begrafenis", "Crematie"]
+    },
+    "priceRange": {
+      "heading": "Prijsbereik",
+      "min": 50,
+      "max": 10000
+    },
+    "funeralTypes": {
+      "heading": "Type Begrafenis",
+      "options": [
+        "Traditionele Begrafenis",
+        "Kerkelijke Begrafenis",
+        "Niet-Religieuze Begrafenis",
+        "Natuurbegrafenis",
+        "Ecologische Begrafenis"
+      ]
+    },
+    "paymentOptions": {
+      "heading": "Betaalmogelijkheden",
+      "options": ["Betaling vooraf", "Betaling in Termijnen"]
+    },
+    "guests": {
+      "heading": "Aantal Gasten",
+      "options": ["<50", "50-100", ">150"]
+    },
+    "location": {
+      "heading": "Locatie",
+      "options": [
+        "Toegankelijkheid Openbaar Vervoer",
+        "Parkeergelegenheid",
+        "Rustige Omgeving",
+        "Stedelijke Locatie"
+      ]
+    },
+    "funeralLocation": {
+      "heading": "Begrafenislocatie",
+      "options": [
+        "Kerk of Religieus Gebouw",
+        "Uitvaartcentrum met Privé Begraafplaats",
+        "Buitenlocatie",
+        "Specifieke Lokale Begraafplaats"
+      ]
+    },
+    "arrangements": {
+      "heading": "Speciale Begrafenisarrangementen",
+      "options": [
+        "Lichamelijke Opbaring Thuis",
+        "Repatriëring naar het Land van Herkomst",
+        "Zeebegrafenis",
+        "Directe Crematie of Begrafenis",
+        "Militaire Begrafenisdiensten",
+        "Kinderbegrafenissen"
+      ]
+    },
+    "facilities": {
+      "heading": "Type Faciliteiten",
+      "options": [
+        "Auditorium voor Ceremonie",
+        "Uitvaartkamer",
+        "24-Uur Kamer",
+        "Condoleancekamer",
+        "Ontvangstmogelijkheden",
+        "Familiekamer"
+      ]
+    },
+    "transport": {
+      "heading": "Vervoer",
+      "options": ["Lijkwagen", "Speciaal Vervoer", "Familie Vervoer"]
+    },
+    "coffinOptions": {
+      "heading": "Kistopties",
+      "options": [
+        "Traditionele Houten Kist",
+        "Biologisch Afbreekbare Kist",
+        "Gepersonaliseerde Kist",
+        "Luxe Kist"
+      ]
+    },
+    "headstoneMonuments": {
+      "heading": "Grafstenen en Monumenten",
+      "options": [
+        "Keuze uit Verschillende Soorten Grafstenen",
+        "Optie voor Gepersonaliseerde Grafstenen",
+        "Groene of Natuurlijke Grafmarkeringen"
+      ]
+    }
+  },
+  "burial": {
+    "burying": "Begrafenis",
+    "cremation": "Crematie",
+    "price_range": "Prijsbereik",
+    "minimum_price": "Minimale Prijs",
+    "maximum_price": "Maximale Prijs",
+    "type_of_funeral": "Type Begrafenis",
+    "traditional_funeral": "Traditionele Begrafenis",
+    "church_funeral": "Kerkelijke Begrafenis",
+    "non_religious_burial": "Niet-Religieuze Begrafenis",
+    "nature_burial": "Natuurbegrafenis",
+    "eco_funeral": "Ecologische Begrafenis",
+    "payment_options": "Betaalmogelijkheden",
+    "prepayment": "Betaling vooraf",
+    "payment_in_installments": "Betaling in Termijnen",
+    "number_of_guests": "Aantal Gasten",
+    "location": "Locatie",
+    "public_transport_accessibility": "Toegankelijkheid Openbaar Vervoer",
+    "parking_facilities": "Parkeergelegenheid",
+    "quiet_environment": "Rustige Omgeving",
+    "urban_location": "Stedelijke Locatie",
+    "funeral_location": "Begrafenislocatie",
+    "church_or_religious_building": "Kerk of Religieus Gebouw",
+    "funeral_home_with_private_cemetery": "Uitvaartcentrum met Privé Begraafplaats",
+    "outdoor_location": "Buitenlocatie (bijv. park, bos, privéterrein)",
+    "specific_local_cemetery": "Specifieke Begraafplaats in de buurt",
+    "special_funeral_arrangements": "Speciale Begrafenisarrangementen",
+    "home_confinement": "Opbaring Thuis",
+    "return_to_country_of_origin": "Repatriëring naar het Land van Herkomst",
+    "seamans_funeral": "Zeemansbegrafenis",
+    "direct_cremation_or_burial": "Directe Crematie of Begrafenis (zonder ceremonie)",
+    "military_funeral_services": "Militaire Begrafenisdiensten",
+    "childrens_funerals": "Kinderbegrafenissen",
+    "type_of_facilities": "Type Faciliteiten",
+    "auditorium_for_ceremony": "Auditorium voor Ceremonie",
+    "funeral_room": "Uitvaartkamer",
+    "24_hour_rooms": "24-Uur Kamer",
+    "condolence_rooms": "Condoleancekamer",
+    "possibility_for_reception": "Ontvangstmogelijkheden",
+    "family_room": "Familiekamer",
+    "transport": "Vervoer",
+    "transport_car": "Vervoersauto",
+    "special_transport": "Speciaal Vervoer (bijv. koets, motorfiets)",
+    "family_transport": "Familie Vervoer",
+    "coffin_options": "Kistopties",
+    "traditional_wooden_coffin": "Traditionele Houten Kist",
+    "biodegradable_coffin": "Biologisch Afbreekbare Kist",
+    "personalized_coffin": "Gepersonaliseerde Kist (bijv. schilderijen, afbeeldingen, thema's)",
+    "luxury_coffin": "Luxe Kist",
+    "headstone_and_monuments": "Grafstenen en Monumenten",
+    "choice_of_various_types_of_headstones": "Keuze uit Verschillende Soorten Grafstenen",
+    "option_for_personalized_headstones": "Mogelijkheid voor Gepersonaliseerde Grafstenen",
+    "green_or_natural_grave_markers": "Groene of Natuurlijke Grafmarkeringen",
+    "top_directors": "Top Directeuren",
+    "other_directors": "Andere Directeuren"
+  },
+  "dashboard": {
+    "undertakers": "Begrafenisondernemers",
+    "productsGrid": "Productenrooster",
+    "noImage": "Geen Afbeelding",
+    "noTitle": "Geen Titel",
+    "contacts": "Contacten",
+    "contactDetails": {
+      "name": "Naam",
+      "email": "E-mail",
+      "phone": "Telefoon",
+      "residence": "Woonplaats",
+      "reason": "Reden",
+      "preferredContact": "Voorkeur Contact",
+      "contactTime": "Contacttijd",
+      "funeralPreference": "Begrafenisvoorkeur",
+      "comment": "Opmerking"
+    },
+    "productTitle": "Titel",
+    "productImage": "Productafbeelding",
+    "viewProduct": "Bekijk Product",
+    "addProduct": "Voeg Product Toe",
+    "closeModal": "Sluiten",
+    "saveProduct": "Opslaan"
+  },
+  "burialPage": {
+    "filters": "Filters",
+    "burying": "Begraven",
+    "cremation": "Crematie",
+    "maps": "Kaarten",
+    "loading": "Laden...",
+    "top_directors": "Topdirecteuren",
+    "other_directors": "Andere directeuren",
+    "payment_options": "Betaalmogelijkheden",
+    "prepayment": "Vooruitbetaling",
+    "payment_in_installments": "Betaling in termijnen",
+    "number_of_guests": "Aantal gasten",
+    "location": "Locatie",
+    "public_transport_accessibility": "Toegankelijkheid van openbaar vervoer",
+    "parking_facilities": "Parkeervoorzieningen",
+    "quiet_environment": "Stille omgeving",
+    "urban_location": "Stedelijke locatie",
+    "funeral_location": "Begrafenislocatie",
+    "church_or_religious_building": "Kerk of religieus gebouw",
+    "funeral_home_with_private_cemetery": "Uitvaartcentrum met privé begraafplaats",
+    "outdoor_location": "Buitenlocatie (bijv. park, bos, privéterrein)",
+    "specific_cemetery_in_the_neighbourhood": "Specifiek begraafplaats in de buurt",
+    "special_funeral_arrangements": "Speciale begrafenisarrangementen",
+    "home_confinement": "Thuisopsluiting",
+    "return_to_country_of_origin": "Terugkeer naar het land van herkomst",
+    "seamans_funeral": "Zeeman's Begrafenis",
+    "direct_cremation_or_burial": "Directe crematie of begrafenis",
+    "military_funeral_services": "Militaire uitvaartdiensten",
+    "childrens_funerals": "Kinderbegrafenissen",
+    "type_of_facilities": "Type voorzieningen",
+    "auditorium_for_ceremony": "Auditorium voor ceremonie",
+    "funeral_room": "Uitvaartkamer",
+    "24_hour_rooms": "24-Uurs Kamer",
+    "condolence_rooms": "Condoleancekamer",
+    "possibility_for_reception": "Mogelijkheid voor ontvangst",
+    "family_room": "Familiekamer",
+    "transport": "Vervoer",
+    "transport_car": "Vervoerauto",
+    "special_transport": "Speciaal vervoer (bijv. koets, motorfiets)",
+    "family_transport": "Gezinsvervoer",
+    "coffin_options": "Kistopties",
+    "traditional_wooden_coffin": "Traditionele houten kist",
+    "biodegradable_coffin": "Biologisch afbreekbare kist",
+    "personalized_coffin": "Gepersonaliseerde kist (bijv. schilderijen, afbeeldingen, thema's)",
+    "headstone_and_monuments": "Grafstenen en monumenten",
+    "choice_of_various_types_of_headstones": "Keuze uit verschillende soorten grafstenen",
+    "option_for_personalized_headstones": "Mogelijkheid voor gepersonaliseerde grafstenen",
+    "green_or_natural_grave_markers": "Groene of natuurlijke grafmarkeringen"
+  },
+  "partner": {
+    "ourTrustedPartnersAndServices": "Onze vertrouwde partners & diensten",
+    "floralPartnersTitle": "Onze bloemistenpartners voor doordachte huldebetuigingen",
+    "floralPartnersDescription": "Van elegante kransen tot verfijnde bloemstukken – Ontdek onze aanbevolen bloemisten, die zich inzetten voor het creëren van oprechte huldebetuigingen voor een betekenisvol afscheid.",
+    "partner1": "Daily Flowers",
+    "partner2": "Amsterdamse boekenservice",
+    "partner3": "Bloemist Den Haag",
+    "memorialCardsTitle": "Herdenkingskaarten",
+    "memorialCardsDescription": "Onze geselecteerde partners bieden prachtig vervaardigde kaarten om geliefden op een persoonlijke manier te eren en te herinneren.",
+    "partner4": "Cards of Amsterdam",
+    "partner5": "Gedachtenis kaartjes",
+    "partner6": "Kaarten voor iedere gelegenheid",
+    "memorialStonesTitle": "Herdenkingsstenen & plaquettes",
+    "memorialStonesDescription": "Onze vertrouwde partners bieden stenen en plaquettes met gepersonaliseerde inscripties voor een betekenisvolle rustplaats.",
+    "partner7": "Grafstenen Nederland",
+    "partner8": "Steen met betekenis",
+    "partner9": "Steen met betekenis",
+    "casketsAndUrnsTitle": "Kisten & Urnen",
+    "casketsAndUrnsDescription": "Onze partners bieden een reeks prachtig vervaardigde kisten en urnen, met opties die het individu van uw dierbare respectvol eren.",
+    "partner10": "Urns",
+    "partner11": "Laatste bed",
+    "partner12": "Natuurgrafstenen"
+  },
+  "product": {
+    "navbar": "Navigatiebalk",
+    "top_section": {
+      "no_image": "Geen afbeelding beschikbaar"
+    },
+    "description_section": {
+      "description_heading": "Beschrijving",
+      "services_heading": "Diensten",
+      "contact": "Contact",
+      "city_postal_code": "Stad/Postcode"
+    },
+    "essential_information_section": {
+      "essential_information_heading": "Essentiële Informatie",
+      "guests_heading": "Gasten",
+      "location_heading": "Locatie",
+      "facilities_heading": "Faciliteiten",
+      "transport_heading": "Vervoer",
+      "coffin_options_heading": "Kistopties",
+      "contact_information_heading": "Contactinformatie",
+      "email": "E-mail",
+      "price": "Prijs",
+      "headstone_monuments": "Grafsteenmonumenten"
+    },
+    "contact_section": {
+      "contact_heading": "Contact",
+      "contact_description": "Heb je een vraag of heb je ondersteuning nodig? Neem gerust contact op met {title} via de knoppen aan de rechterkant. Je kunt eenvoudig een e-mail sturen of hen direct telefonisch bereiken. Ze staan 24/7 klaar om je te helpen."
+    },
+    "registration_form": {
+      "registration_form_heading": "Registratieformulier voor Direct Contact",
+      "first_name": "Voornaam",
+      "surname": "Achternaam",
+      "email_address": "E-mailadres",
+      "phone_number": "Telefoonnummer",
+      "city_of_residence": "Woonplaats",
+      "reason_for_contact": "Reden voor Contact",
+      "contact_preferences": "Contactvoorkeuren",
+      "preferred_contact_time": "Gewenste contacttijd",
+      "funeral_preferences": "Begrafenisvoorkeuren",
+      "funeral": "Begrafenis",
+      "cremation": "Crematie",
+      "eco_funeral": "Milieuvriendelijke begrafenis",
+      "non_religious": "Niet-religieuze begrafenis"
+    }
+  },
+  "productDetail": {
+    "editProduct": "Bewerk Product",
+    "titlePlaceholder": "Titel",
+    "descriptionPlaceholder": "Beschrijving",
+    "servicesPlaceholder": "Diensten",
+    "contactPlaceholder": "Contact",
+    "cityPostalCodePlaceholder": "Stad/Postcode",
+    "typeLabel": "Type",
+    "selectTypeOption": "Selecteer type",
+    "buyingOption": "Aankoop",
+    "cremationOption": "Crematie",
+    "funeralTypeLabel": "Soort Begrafenis",
+    "selectFuneralTypeOption": "Selecteer begrafenis type",
+    "traditionalFuneralOption": "Traditionele Begrafenis",
+    "churchFuneralOption": "Kerkbegrafenis",
+    "nonReligiousBurialOption": "Niet-religieuze Begrafenis",
+    "natureBurialOption": "Natuurbegrafenis",
+    "ecoFuneralOption": "Eco Begrafenis",
+    "paymentLabel": "Betalingsopties",
+    "selectPaymentOption": "Selecteer betalingsoptie",
+    "prepaymentOption": "Vooruitbetaling",
+    "paymentInInstallmentsOption": "Betaling in termijnen",
+    "arrangementsLabel": "Speciale Begrafenisregelingen",
+    "selectSpecialArrangementsOption": "Selecteer speciale regelingen",
+    "homeConfinementOption": "Thuisisolatie",
+    "returnToCountryOfOriginOption": "Terugkeer naar land van herkomst",
+    "seamansFuneralOption": "Zeelieden Begrafenis",
+    "directCremationOrBurialOption": "Directe Crematie of Begrafenis",
+    "militaryFuneralServicesOption": "Militaire Begrafenisdiensten",
+    "childrensFuneralsOption": "Kinderbegrafenissen",
+    "locationLabel": "Locatie",
+    "selectLocationOption": "Selecteer Locatie",
+    "accessibilityOfPublicTransportOption": "Toegankelijkheid van openbaar vervoer",
+    "parkingFacilitiesOption": "Parkeervoorzieningen",
+    "quietEnvironmentOption": "Rustige Omgeving",
+    "urbanLocationOption": "Stedelijke Locatie",
+    "funeralLocationLabel": "Begrafenis Locatie",
+    "selectFuneralLocationOption": "Selecteer Begrafenis Locatie",
+    "churchOrReligiousBuildingOption": "Kerk of religieus gebouw",
+    "funeralHomeWithCemeteryOption": "Begrafenishuis met eigen begraafplaats",
+    "outdoorLocationOption": "Buitenlocatie (bijv. park, bos, privéterrein)",
+    "specificCemeteryOption": "Specifieke Begraafplaats in de buurt",
+    "facilitiesLabel": "Faciliteiten",
+    "selectFacilityTypeOption": "Selecteer Type Faciliteit",
+    "auditoriumForCeremonyOption": "Auditorium voor ceremonie",
+    "funeralRoomOption": "Begrafeniskamer(s)",
+    "twentyFourHourRoomOption": "24-uurs kamer(s)",
+    "condolenceRoomOption": "Condoleancekamer(s)",
+    "possibilityForReceptionOption": "Mogelijkheid voor receptie",
+    "familyRoomOption": "Familiekamer",
+    "transportLabel": "Vervoer",
+    "selectTransportTypeOption": "Selecteer Type Vervoer",
+    "funeralCarOption": "Begrafenisauto",
+    "specialTransportOption": "Speciaal Vervoer (bijv. koets, motorfiets)",
+    "familyTransportOption": "Familie Vervoer",
+    "coffinLabel": "Lijkkist",
+    "selectCoffinTypeOption": "Selecteer Type Lijkkist",
+    "traditionalWoodenCoffinOption": "Traditionele houten lijkkist",
+    "biodegradableCoffinOption": "Biologisch afbreekbare lijkkist",
+    "personalisedCoffinOption": "Gepersonaliseerde lijkkist (bijv. schilderijen, afbeeldingen, thema's)",
+    "luxuryCoffinOption": "Luxe lijkkist",
+    "pricePlaceholder": "Prijs",
+    "headstoneLabel": "Grafstenen & Monumenten",
+    "selectMonumentTypeOption": "Selecteer Type Monument",
+    "differentTypesOfHeadstonesOption": "Keuze uit verschillende soorten grafstenen",
+    "personalisedTombstonesOption": "Mogelijkheid voor gepersonaliseerde grafstenen",
+    "greenOrNaturalGraveMarkersOption": "Groene of natuurlijke grafmarkeringen",
+    "guestsPlaceholder": "Gasten",
+    "emailPlaceholder": "E-mail",
+    "fileUploadPlaceholder": "Bestand Uploaden",
+    "saveChangesButton": "Wijzigingen Opslaan",
+    "deleteProductButton": "Verwijder Product",
+    "loadingProductDetails": "Productdetails Laden..."
+  },
+  "view-product": {
+    "productPage": {
+      "sections": {
+        "description": {
+          "heading": "Beschrijving",
+          "services": "Diensten",
+          "contact": "Contact",
+          "cityPostalCode": "Stad/Postcode"
+        },
+        "essentialInformation": {
+          "heading": "Essentiële Informatie",
+          "buttons": {
+            "funeralType": "Soort Uitvaart",
+            "type": "Type"
+          },
+          "payment": "Betaling",
+          "arrangements": "Regelingen"
+        },
+        "otherSections": {
+          "guests": "Gasten",
+          "location": "Locatie",
+          "funeralLocation": "Uitvaartlocatie"
+        },
+        "facilities": {
+          "heading": "Faciliteiten",
+          "transport": "Transport",
+          "coffinOptions": "Kist Opties"
+        },
+        "contactInformation": {
+          "heading": "Contactinformatie",
+          "email": "E-mail",
+          "price": "Prijs",
+          "headstoneMonuments": "Grafstenen Monumenten"
+        }
+      },
+      "buttons": {
+        "edit": "Bewerken"
+      },
+      "messages": {
+        "noImageAvailable": "Geen Afbeelding Beschikbaar"
+      }
+    }
+  },
+  "what-to-do": {
+    "hero": {
+      "whatToDo": "Wat te doen",
+      "mainHeading": "Wat te doen wanneer je dierbare overlijdt"
+    },
+    "steps": {
+      "step1": {
+        "heading": "Stap 1: Neem contact op met je huisarts",
+        "text": "Laat de huisarts zo snel mogelijk komen om officieel het overlijden vast te stellen. Dit is een belangrijke eerste stap om alles in beweging te zetten."
+      },
+      "step2": {
+        "heading": "Stap 2: Informeer de uitvaartondernemer",
+        "text": "Neem contact op met de uitvaartondernemer van jouw keuze. Zij zullen je verder begeleiden in dit proces en helpen bij het regelen van alle details."
+      },
+      "step3": {
+        "heading": "Stap 3: Verzamel belangrijke documenten",
+        "text": "Zorg ervoor dat je documenten zoals het testament en verzekeringspapieren bij de hand hebt. Dit zal helpen bij een soepele voorbereiding."
+      },
+      "step4": {
+        "heading": "Stap 4: Informeer familie en vrienden",
+        "text": "Neem de tijd om geliefden op de hoogte te brengen van het overlijden. Je kunt ook de uitvaartondernemer om hulp vragen om dit op een respectvolle manier te doen."
+      }
+    },
+    "restAndCare": {
+      "heading": "Rust en zorg na het afscheid",
+      "text": "Na het verlies van een dierbare is het belangrijk om alles rustig en stap voor stap te regelen. Hier is een zachte en duidelijke gids voor wat je kunt doen na de uitvaart of crematie:",
+      "list": {
+        "item1": "Bedank mensen: Stuur een kaart of bericht om iedereen te bedanken die steun heeft geboden.",
+        "item2": "Regel papierwerk: Overweeg het annuleren van abonnementen, het informeren van banken en het omgaan met erfenissen.",
+        "item3": "Verwerk je verdriet: Neem de tijd om te rouwen. Zoek steun bij familie, vrienden of een rouwconsulent.",
+        "item4": "Herdenk je dierbare: Plan momenten om samen te komen om je dierbare te herinneren, bijvoorbeeld op de verjaardag of sterfdag."
+      },
+      "finalText": "Deze stappen zullen je helpen om deze moeilijke periode op een rustige manier te doorstaan."
+    },
+    "funeralInsurance": {
+      "heading": "Jouw Uitvaartzorg goed geregeld: Alles wat je moet weten over Uitvaartverzekeringen",
+      "whatIs": {
+        "heading": "Wat is een uitvaartverzekering?",
+        "text": "Een uitvaartverzekering is een financiële voorziening die de kosten van je uitvaart dekt, zodat je dierbaren geen onverwachte uitgaven hebben. Door een maandelijkse of jaarlijkse premie te betalen, zorg je ervoor dat je uitvaart wordt geregeld volgens jouw wensen, zonder financiële druk op je dierbaren."
+      },
+      "types": {
+        "heading": "Soorten uitvaartverzekeringen",
+        "list": {
+          "item1": "Kapitaalverzekering: Bij overlijden ontvangt je naaste een afgesproken geldbedrag. Dit bedrag kan worden gebruikt voor de uitvaart maar biedt flexibiliteit om het geld naar eigen inzicht te besteden. Dit vereist echter dat zij de uitvaart zelf organiseren.",
+          "item2": "Natura verzekering: In plaats van geld uit te keren, zorgt deze verzekering ervoor dat de kosten van de uitvaart gedekt zijn. De verzekeraar regelt de belangrijkste onderdelen van de uitvaart, zoals de kist, uitvaarttransport en de ceremonie. Dit biedt minder flexibiliteit maar neemt veel zorgen weg van je naaste.",
+          "item3": "Combinatieverzekering: Deze polis combineert de voordelen van kapitaal- en natura verzekering. Een deel van de uitvaartkosten wordt direct door de verzekeraar gedekt, terwijl een ander deel wordt uitgekeerd als een geldbedrag aan je naaste. Dit is handig voor extra wensen die buiten het standaardpakket vallen."
+        }
+      },
+      "important": {
+        "heading": "Belangrijk: Zelfs als je een verzekering hebt, kies je eigen uitvaartondernemer",
+        "text": "Het is essentieel om te weten dat hoewel de uitvaartverzekering de kosten dekt, jij of je nabestaanden zelf een uitvaartondernemer moeten kiezen. Dit betekent dat hoewel de financiële kant is geregeld, de organisatie en uitvoering van de uitvaart moet worden gedaan door een gekozen uitvaartondernemer. Door hier van tevoren over na te denken en eventueel al een keuze te maken, kun je je nabestaanden veel zorgen besparen tijdens een moeilijke tijd."
+      },
+      "noInsurance": {
+        "heading": "Wat gebeurt er als je geen uitvaartverzekering hebt?",
+        "text": "Als je geen uitvaartverzekering hebt, zullen je nabestaanden de volledige kosten van je uitvaart moeten dragen. Een uitvaart kan variëren van €7.000 tot €10.000, afhankelijk van de gemaakte keuzes. Zonder verzekering moeten deze kosten worden betaald uit eigen middelen of erfenis, wat een grote financiële last kan zijn voor veel gezinnen. Daarnaast moeten je nabestaanden ook alle praktische zaken regelen. Dit kan overweldigend zijn, vooral in een emotionele tijd. Zonder duidelijke richtlijnen of verzekering kan het organiseren van de uitvaart een zware taak worden. Een uitvaartverzekering biedt niet alleen financiële zekerheid, maar zorgt er ook voor dat veel organisatorische aspecten van de uitvaart al zijn geregeld."
+      },
+      "choosing": {
+        "heading": "Waarop letten bij het kiezen van een uitvaartverzekering?",
+        "text": "Bij het kiezen van een uitvaartverzekeringspolis is het belangrijk om op een aantal factoren te letten:",
+        "list": {
+          "item1": "Dekking: Welke kosten en diensten worden gedekt? Dit kan variëren van basisvoorzieningen zoals de kist en uitvaarttransport tot meer uitgebreide opties zoals bloemen, muziek en catering.",
+          "item2": "Bijdrage: Hoeveel moet je betalen en voor hoe lang? De premie hangt vaak af van je leeftijd, gezondheid en de gekozen dekking. Hoe jonger je bent wanneer je je polis afsluit, hoe lager de premie meestal is.",
+          "item3": "Flexibiliteit: Kun je de verzekering aanpassen als je wensen of omstandigheden veranderen? Sommige verzekeringspolissen staan je toe om tussentijdse wijzigingen aan te brengen, bijvoorbeeld wanneer je verhuist of je uitvaartwensen verandert.",
+          "item4": "Uitsluitingen: Wat wordt er niet gedekt? Het is belangrijk om de kleine lettertjes te lezen om eventuele kosten die niet worden gedekt op het moment dat de verzekering wordt geactiveerd te voorkomen."
+        }
+      },
+      "benefits": {
+        "heading": "Voordelen van een uitvaartverzekering",
+        "text": "Een uitvaartverzekering biedt verschillende voordelen:",
+        "list": {
+          "item1": "Financiële gemoedsrust: Je naaste hoeft zich geen zorgen te maken over de kosten van je uitvaart.",
+          "item2": "Zekerheid: Je uitvaartwensen worden uitgevoerd zoals jij dat wilt, zonder je geliefden te belasten met moeilijke keuzes.",
+          "item3": "Gemak: De uitvaartondernemer neemt de organisatie voor haar rekening, waardoor je familie ontlast wordt tijdens een moeilijke periode."
+        }
+      },
+      "whenToClose": {
+        "heading": "Wanneer afsluiten?",
+        "text": "Het is verstandig om op jonge leeftijd een uitvaartverzekering af te sluiten, aangezien de premies dan lager zullen zijn. Echter, zelfs later in het leven kan het afsluiten van een verzekering nog steeds een goede optie zijn om ervoor te zorgen dat je nabestaanden geen financiële zorgen hebben."
+      },
+      "caseOfDeath": {
+        "heading": "Wat te doen in geval van overlijden?",
+        "text": "Wanneer een verzekerde persoon overlijdt, nemen de nabestaanden contact op met de uitvaartverzekeraar. De verzekeraar helpt hen bij het regelen van de uitvaart volgens de polisvoorwaarden en zorgt ervoor dat alles volgens plan verloopt. Dit neemt veel organisatorische druk van de schouders van de nabestaanden, waardoor zij zich kunnen concentreren op het afscheid nemen."
+      },
+      "conclusion": {
+        "text": "Een uitvaartverzekering is daarom een waardevolle investering in de toekomst. Het biedt financiële zekerheid, ontlast je nabestaanden en zorgt ervoor dat je uitvaart wordt uitgevoerd volgens jouw wensen. Het afsluiten van een uitvaartverzekering is een belangrijke stap om ervoor te zorgen dat alles goed is geregeld wanneer de tijd daar is."
+      }
+    }
+  },
+  "footer": {
+    "menu": "Menu",
+    "foundationFarewell": "Stichting Afscheid voor Allen",
+    "followStory": "Volg ons Verhaal",
+    "aboutUs": "Over ons",
+    "aboutUsDescription": "Bij Uitvaart Centrum Nederland helpen wij u bij het vinden van de juiste uitvaartondernemer. Wij bieden een onafhankelijk en handig platform waarop u uitvaartondernemers eenvoudig kunt vergelijken op prijs, locatie en service. Zo kunt u een weloverwogen keuze maken in een moeilijke tijd die bij uw wensen past. Transparantie en objectiviteit zijn onze hoogste prioriteiten.",
+    "importantInformation": "Belangrijke Informatie"
+  },
+
+  "newblogs": {
+    "title": "Alle begrafenis- en crematieopties in Nederland: Van traditioneel tot innovatief en milieuvriendelijk",
+    "author": "Madelief",
+    "date": "18/08/2024",
+    "readTime": "15 minuten",
+    "intro": "In Nederland zijn er inderdaad talrijke opties als het gaat om begrafenissen en crematies. Naast de meer gangbare keuzes zoals traditionele begrafenissen en crematies, zijn er ook verschillende alternatieve en moderne methoden beschikbaar, rekening houdend met religieuze, culturele, ecologische en persoonlijke voorkeuren. Hieronder volgt een uitgebreid overzicht van alle soorten begrafenissen en crematies die mogelijk zijn in Nederland, inclusief enkele opkomende of nichevormen.",
+    "burialOptionsTitle": "Begrafenisopties in Nederland",
+    "traditionalBurial": {
+      "title": "Traditionele begrafenis op een algemeen of privé begraafplaats",
+      "description1": "Het lichaam wordt begraven in een graf op een begraafplaats.",
+      "description2": "Zowel algemene (gemeentelijke) begraafplaatsen als privé (kerk) begraafplaatsen zijn beschikbaar.",
+      "description3": "Optie voor een gehuurd graf (meestal 10 tot 30 jaar) of een eeuwigdurend graf."
+    },
+    "naturalBurial": {
+      "title": "Natuurbegrafenis",
+      "description1": "Het lichaam wordt begraven in een natuurlijke omgeving, zoals een bos of natuurreservaat.",
+      "description2": "Er wordt geen grafsteen gebruikt; graven worden vaak gemarkeerd met een natuurlijk monument, zoals een boom of struik.",
+      "description3": "Biologisch afbreekbare materialen worden gebruikt, zoals een houten of kartonnen kist.",
+      "description4": "Populaire natuurbegraafplaatsen zijn onder andere Hillig Meer Natuurbegraafplaats en Heidepol."
+    },
+    "shroudBurial": {
+      "title": "Lijkwade begrafenis",
+      "description1": "In plaats van een kist wordt het lichaam gewikkeld in een biologisch afbreekbare doek of lijkwade.",
+      "description2": "Deze methode is toegestaan op bepaalde begraafplaatsen en natuurbegraafplaatsen."
+    },
+    "islamicBurial": {
+      "title": "Islamitische begrafenis",
+      "description1": "Volgens de islamitische traditie moet de overledene zo snel mogelijk worden begraven, meestal binnen 24 uur.",
+      "description2": "Het lichaam wordt gewassen, gewikkeld in witte doeken (kafaan) en begraven met het gezicht naar Mekka.",
+      "description3": "Cremeren is over het algemeen niet toegestaan in de islam."
+    },
+    "jewishBurial": {
+      "title": "Joodse begrafenis",
+      "description1": "Het lichaam wordt begraven in een eenvoudige, houten kist met minimale versiering.",
+      "description2": "De begrafenis vindt meestal plaats binnen 24 uur en cremeren is niet toegestaan volgens de joodse wet.",
+      "description3": "Er wordt geen balseming of conservering van het lichaam gebruikt."
+    },
+    "catholicProtestantBurial": {
+      "title": "Katholieke of protestantse begrafenis",
+      "description1": "De ceremonie vindt vaak plaats in een kerk, gevolgd door een begrafenis op het kerkhof of een privé begraafplaats.",
+      "description2": "Katholieken staan zowel begrafenis als crematie toe, afhankelijk van persoonlijke voorkeur.",
+      "description3": "Religieuze rituelen, waaronder gebeden, zegeningen en een mis, worden vaak uitgevoerd."
+    },
+    "militaryBurial": {
+      "title": "Militaire begrafenis",
+      "description1": "Voor (voormalige) militaire personeelsleden is een ceremonie met militaire eerbetonen mogelijk.",
+      "description2": "Militaire tradities worden vaak gevolgd, zoals een saluut met geweer of het spelen van de 'Last Post'.",
+      "description3": "De begrafenis kan plaatsvinden op een militaire begraafplaats of een algemene begraafplaats."
+    },
+    "seaBurial": {
+      "title": "Zeebegrafenis",
+      "description1": "Het lichaam wordt in zee begraven na het verkrijgen van een speciaal permit.",
+      "description2": "Dit gebeurt in een biologisch afbreekbare kist of lijkwade, op een specifieke locatie in de zee.",
+      "description3": "Strikte regels en vergunningen van de overheid zijn van toepassing op zowel lichaamsbegrafenissen als het verstrooien van as op zee."
+    },
+    "cremationOptionsTitle": "Crematieopties in Nederland",
+    "traditionalCremation": {
+      "title": "Traditionele crematie",
+      "description1": "Het lichaam wordt gecremeerd in een crematorium, en de as wordt aan de nabestaanden teruggegeven.",
+      "description2": "De as kan worden bewaard in een urn, verstrooid op een begraafplaats, op zee of op een aangewezen verstrooiingsveld.",
+      "description3": "De as kan ook worden verwerkt in herdenkingssieraden of andere voorwerpen."
+    },
+    "resomation": {
+      "title": "Resomatie (Watercrematie)",
+      "description1": "Een milieuvriendelijke optie waarbij het lichaam wordt opgelost in een wateroplossing van kaliumhydroxide onder hoge druk en temperatuur.",
+      "description2": "De resten zijn een poeder, dat, net als crematie-as, in een urn kan worden bewaard.",
+      "description3": "Deze methode is in opkomst, maar nog niet volledig legaal in Nederland (hoewel er gesprekken en proefprojecten gaande zijn)."
+    },
+    "eternalReefs": {
+      "title": "Ewige riffen",
+      "description1": "Een deel van de as wordt gemengd met beton om een kunstmatig rif te creëren, dat vervolgens in zee wordt geplaatst.",
+      "description2": "Deze methode helpt koraalriffen te herstellen en biedt een unieke, milieuvriendelijke herdenkingsoptie."
+    },
+    "ashScattering": {
+      "title": "As verstrooiing",
+      "description1": "De as van de overledene kan op verschillende plaatsen worden verstrooid, zoals op een verstrooiingsveld op een begraafplaats, in de natuur of op zee.",
+      "description2": "Verstrooiing kan ook ceremonieel worden gedaan met een ballon (waarbij de as hoog de lucht in wordt losgelaten), of met vuurwerk, waarbij de as in de voorstelling wordt verwerkt."
+    },
+    "urnPlacement": {
+      "title": "Urnenplaatsing",
+      "description1": "De urn met de as van de overledene kan worden geplaatst in een columbarium, een urnmuur op een begraafplaats, of in een urnenhof.",
+      "description2": "Dit biedt een vaste locatie waar familieleden de overledene kunnen herdenken."
+    },
+    "memorialJewellery": {
+      "title": "Herdenkingssieraden en Asdiamanten",
+      "description1": "Een klein deel van de as kan worden verwerkt in sieraden, zoals ringen, kettingen of armbanden.",
+      "description2": "As kan ook worden gebruikt om een synthetische diamant te creëren, die gedragen of bewaard kan worden als herinnering."
+    },
+    "aerialAshScattering": {
+      "title": "Luchtas verstrooiing",
+      "description1": "De as kan uit een vliegtuig worden verstrooid over een gekozen locatie, zoals een natuurreservaat of de zee.",
+      "description2": "Dit biedt een unieke en symbolische manier om afscheid te nemen."
+    },
+    "spaceCremation": {
+      "title": "Ruimtecrematie",
+      "description1": "Een klein deel van de as van de overledene wordt in een capsule de ruimte in gestuurd.",
+      "description2": "Dit is een unieke optie voor degenen die een fascinatie hebben voor de ruimte of het universum."
+    },
+    "alternativeFormsTitle": "Alternatieve en opkomende begrafenis- en crematievormen",
+    "cryomation": {
+      "title": "Cryomatie (Bevriezing en Verkruimeling)",
+      "description1": "Een techniek waarbij het lichaam wordt bevroren met stikstof en daarna mechanisch wordt verkruimeld. De resten kunnen op een milieuvriendelijke manier worden begraven.",
+      "description2": "Deze methode wordt nog niet in Nederland toegepast, maar is in ontwikkeling."
+    },
+    "composting": {
+      "title": "Composteren (Humusatie)",
+      "description1": "Het lichaam wordt op een gecontroleerde manier gecomposteerd, zodat het wordt omgezet in vruchtbare bodem.",
+      "description2": "Dit proces is nog niet beschikbaar in Nederland, maar er is belangstelling om het als milieuvriendelijke optie te adopteren."
+    },
+    "bodyFarm": {
+      "title": "Body Farm (Wetenschappelijk Onderzoek)",
+      "description1": "Het lichaam kan worden gedoneerd aan de wetenschap, waar het wordt gebruikt op een 'Body Farm' om ontbinding te bestuderen.",
+      "description2": "Dit helpt forensisch onderzoek te verbeteren, hoewel het nog geen gangbare praktijk is in Nederland (nog niet)."
+    },
+    "virtualRealityMemorials": {
+      "title": "Virtuele Herdenkingen",
+      "description1": "Met de opkomst van technologie is het nu mogelijk om virtuele uitvaarten of herdenkingen te houden.",
+      "description2": "Dit kan worden gedaan met VR-headsets en 360° video's, waardoor rouwenden van over de hele wereld virtueel kunnen bijwonen."
+    },
+    "treeUrn": {
+      "title": "Boomurn of Bios Urn",
+      "description1": "De as van de overledene wordt gemengd met aarde en plantvoedingsstoffen, en er wordt een boom geplant.",
+      "description2": "Dit is een manier om de herinnering aan de overledene levend te houden door de groei van een boom."
+    },
+    "floatingBurial": {
+      "title": "Drijvend Begraven",
+      "description1": "Een minder bekende alternatieve methode waarbij het lichaam op een drijvend platform op water wordt geplaatst en op natuurlijke wijze aan de elementen wordt overgelaten.",
+      "description2": "Deze methode is voornamelijk symbolisch en afhankelijk van lokale regelgeving."
+    },
+    "mummification": {
+      "title": "Mummificatie",
+      "description1": "Een zeer zeldzame praktijk vandaag de dag, maar sommige bedrijven bieden een proces aan dat lijkt op de oude Egyptische mummificatie.",
+      "description2": "Het lichaam wordt gebalsemd en bewaard in plaats van begraven of gecremeerd."
+    },
+    "summary": {
+      "title": "Samenvatting van Begrafenis- en Crematieopties",
+      "description1": "Er zijn talloze opties voor begrafenissen en crematies in Nederland, variërend van traditionele, religieuze, milieuvriendelijke, technologische en innovatieve methoden om een geliefde te herdenken. Hoewel sommige methoden, zoals cryogene conservering en plastinatie, nog niet beschikbaar zijn in Nederland, worden ze internationaal aangeboden voor degenen met specifieke wensen.",
+      "description2": "Nieuwe ontwikkelingen in de uitvaartindustrie blijven opkomen, dus het is belangrijk om op de hoogte te blijven van de laatste mogelijkheden. Of je nu kiest voor een intieme natuurlijke begrafenis, een hightech digitale erfenis, of een artistieke verwerking van de as, er zijn talloze manieren om een afscheid persoonlijk en betekenisvol te maken."
+    }
+  },
+  "landingPage": {
+    "hero": "Een overlijden is al zwaar genoeg. Maak het iets lichter door de perfecte uitvaartverzorger te vinden die aan uw wensen voldoet. Onze website biedt toegang tot een breed netwerk van uitvaartverzorgers door heel Nederland, zorgvuldig geselecteerd om aan uw wensen te voldoen. Of uw dierbare nu wel of niet verzekerd is, wij helpen u bij het organiseren van een afscheid dat recht doet aan het geleefde leven.",
+    "funeralDirector": "Vind een Uitvaartverzorger",
+    "burying": "Begraven",
+    "cremation": "Crematie",
+    "maps": "Kaarten",
+    "funeralDirectorInThePicture": "Uitvaartverzorger in Beeld",
+    "uitvaartverzorging_van_der_spek": "Uitvaartverzorging Van der Spek",
+    "A_family_business_with_a_long_tradition_within_funeral_services": "Een familiebedrijf met een lange traditie in de uitvaartzorg",
+    "Modern_and_personalized_funeral_services": "Moderne en gepersonaliseerde uitvaartdiensten",
+    "Personal_and_respectful_funeral_services": "Van traditionele tot moderne en unieke uitvaartdiensten",
+    "stories": "Bereid je voor met deze verhalen en tips",
+    "Natural_burial_in_the_Netherlands": "Natuurbegrafenis, Terug naar de Natuur",
+    "A_natural_burial_is_a_sustainable_choice": "Steeds meer mensen kiezen voor natuurbegrafenis in Nederland. Wat zijn de voordelen en waar moet je op letten?",
+    "digital_estate_care_for_your_online_legacy": "Digitale erfeniszorg voor je online nalatenschap",
+    "Eternal_reefs_memorial": "Ewige riffen: Maak van de as van je dierbare een levend monument",
+    "special_places": "De meest bijzondere plekken die je misschien nog niet had bedacht",
+    "celebrate_life": "Vier het leven op jouw manier"
+  }
+}

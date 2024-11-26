@@ -1,8 +1,8 @@
 // about.tsx
-import '../src/app/about.css'
-import Link from 'next/link';
-import Image from 'next/image';
-import Navbar from '../components/Navbar'; // Assuming you have the Navbar component already created
+import "../src/app/about.css";
+import Link from "next/link";
+import Image from "next/image";
+import Navbar from "../components/Navbar"; // Assuming you have the Navbar component already created
 
 const About = () => {
   return (
@@ -63,20 +63,27 @@ const About = () => {
             <hr />
             <br />
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              At Uitvaart Centrum Nederland, we will assist you in finding the right funeral director. 
-              We offer an independent and convenient platform where you can easily compare funeral directors 
-              based on price, location, and service. This way, you can make a well-considered choice in a difficult time 
-              that suits your wishes. Transparency and objectiveness are our top priorities.
+              At Uitvaart Centrum Nederland, we will assist you in finding the
+              right funeral director. We offer an independent and convenient
+              platform where you can easily compare funeral directors based on
+              price, location, and service. This way, you can make a
+              well-considered choice in a difficult time that suits your wishes.
+              Transparency and objectiveness are our top priorities.
             </p>
             <br />
             <br />
-            <h4 className="text-2xl font-bold text-gray-900 mb-4">Important information</h4>
-            <br/>
-            <hr/>
-            <br/>
+            <h4 className="text-2xl font-bold text-gray-900 mb-4">
+              Important information
+            </h4>
+            <br />
+            <hr />
+            <br />
             <ul className="text-lg text-gray-800 space-y-2">
               <li>
-                <Link href="/terms-and-conditions" className="hover:text-blue-800">
+                <Link
+                  href="/terms-and-conditions"
+                  className="hover:text-blue-800"
+                >
                   General terms and conditions
                 </Link>
               </li>
@@ -86,7 +93,10 @@ const About = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/chamber-of-commerce" className="hover:text-blue-800">
+                <Link
+                  href="/chamber-of-commerce"
+                  className="hover:text-blue-800"
+                >
                   Chamber of Commerce number
                 </Link>
               </li>
