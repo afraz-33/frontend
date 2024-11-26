@@ -48,39 +48,39 @@ const WhatToDo = () => {
         <br />
 
         {/* Steps */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 gap-y-32 justify-items-center">
-          <div className="bg-blue-100 p-20 rounded-[36px] shadow-lg h-[50vh] flex flex-col items-center justify-start gap-10 w-3/4">
-            <h2 className="text-3xl font-semibold text-center mb-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-y-32 justify-items-center">
+          <div className="bg-blue-100 p-10 md:p-20 rounded-[36px] shadow-lg md:h-[50vh] flex flex-col items-center justify-start md:gap-10 w-3/4">
+            <h2 className="text-2xl md:text-3xl font-semibold text-center mb-4">
               {t("steps.step1.heading")}
             </h2>
-            <p className="text-2xl text-center text-gray-700">
+            <p className="text-xl md:text-2xl text-center text-gray-700">
               {t("steps.step1.text")}
             </p>
           </div>
 
-          <div className="bg-blue-50 p-20 rounded-[36px] shadow-lg h-[50vh] flex flex-col items-center justify-start gap-10 w-3/4">
-            <h2 className="text-3xl font-semibold text-center mb-4">
+          <div className="bg-blue-100 p-10 md:p-20 rounded-[36px] shadow-lg md:h-[50vh] flex flex-col items-center justify-start md:gap-10 w-3/4">
+            <h2 className="text-2xl md:text-3xl font-semibold text-center mb-4">
               {t("steps.step2.heading")}
             </h2>
-            <p className="text-2xl text-center text-gray-700">
+            <p className="text-xl md:text-2xl text-center text-gray-700">
               {t("steps.step2.text")}
             </p>
           </div>
 
-          <div className="bg-blue-50 p-20 rounded-[36px] shadow-lg h-[50vh] flex flex-col items-center justify-start gap-10 w-3/4">
-            <h2 className="text-3xl font-semibold text-center mb-4">
+          <div className="bg-blue-100 p-10 md:p-20 rounded-[36px] shadow-lg md:h-[50vh] flex flex-col items-center justify-start md:gap-10 w-3/4">
+            <h2 className="text-2xl md:text-3xl font-semibold text-center mb-4">
               {t("steps.step3.heading")}
             </h2>
-            <p className="text-2xl text-center text-gray-700">
+            <p className="text-xl md:text-2xl text-center text-gray-700">
               {t("steps.step3.text")}
             </p>
           </div>
 
-          <div className="bg-blue-100 p-20 rounded-[36px] shadow-lg h-[50vh] flex flex-col items-center justify-start gap-10 w-3/4">
-            <h2 className="text-3xl font-semibold text-center mb-4">
+          <div className="bg-blue-100 p-10 md:p-20 rounded-[36px] shadow-lg md:h-[50vh] flex flex-col items-center justify-start md:gap-10 w-3/4">
+            <h2 className="text-2xl md:text-3xl font-semibold text-center mb-4">
               {t("steps.step4.heading")}
             </h2>
-            <p className="text-2xl text-center text-gray-700">
+            <p className="text-xl md:text-2xl text-center text-gray-700">
               {t("steps.step4.text")}
             </p>
           </div>

@@ -156,16 +156,15 @@ const Navbar = () => {
           <button className="bg-orange-500 text-gray-800 px-4 py-2 rounded-lg font-semibold text-xl">
             {t("urgent")}
           </button>
-          <Link href="/cremation" legacyBehavior>
+          <Link href="/cremation" legacyBehavior className="pl-4">
             <a className="text-gray-800 text-lg hover:text-gray-500 flex items-center">
               <SearchIcon style={{ fontSize: "24px", marginRight: "8px" }} />
               <span className="ml-2">{t("search")}</span>{" "}
               {/* Text aligned next to the icon */}
             </a>
           </Link>
+          <LanguageSwitcher />
         </div>
-
-        <LanguageSwitcher />
       </div>
 
       {/* Mobile Menu */}
@@ -238,6 +237,17 @@ const Navbar = () => {
                 </a>
               </Link>
             </li>
+            <li>
+              <Link href="/partner" legacyBehavior>
+                <a
+                  className={`hover:text-blue-800 text-gray-800 text-lg block ${
+                    isActive("/partner") ? "text-blue-800 underline" : ""
+                  }`}
+                >
+                  {t("partner")}
+                </a>
+              </Link>
+            </li>
             <li className="mt-4">
               <button
                 className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold w-full text-xl"
@@ -257,6 +267,7 @@ const Navbar = () => {
               </Link>
             </li>
           </ul>
+          <LanguageSwitcher />
         </div>
       )}
     </nav>

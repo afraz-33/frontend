@@ -26,18 +26,18 @@ const About = () => {
       <Navbar />
       <section className="bg-white py-16 px-8">
         <div className="container mx-auto">
-          <h2 className="text-3xl font-bold text-darkBlueText mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-darkBlueText mb-8">
             {t("heading")}
           </h2>
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph1")}
           </p>
 
-          <div className="flex justify-between items-center mb-12">
-            <p className="text-2xl text-gray-700 leading-loose mb-6 w-3/4">
+          <div className="flex flex-col justify-between items-center mb-12">
+            <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6 md:w-3/4">
               {t("paragraph2")}
             </p>
-            <div className="w-3/4 flex justify-center">
+            <div className="md:w-3/4 flex justify-center">
               <Image
                 src={"/about-us.png"}
                 alt="about us image"
@@ -47,15 +47,15 @@ const About = () => {
             </div>
           </div>
 
-          <h2 className="text-3xl font-bold text-darkBlueText mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-darkBlueText mb-8">
             {t("heading2")}
           </h2>
 
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph3")}
           </p>
 
-          <ul className="text-2xl list-disc  list-inside text-gray-700 leading-loose mb-6">
+          <ul className="text-xl md:text-2xl list-disc  list-inside text-gray-700 leading-loose mb-6">
             <li>
               <strong>{t("strong1")}</strong>
               {t("li1")}
@@ -69,7 +69,7 @@ const About = () => {
               {t("li3")}
             </li>
           </ul>
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph4")}
           </p>
           <Image
@@ -79,17 +79,17 @@ const About = () => {
             alt="About"
             className="w-full"
           />
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph5")}
           </p>
-          <h2 className="text-3xl font-bold text-darkBlueText mb-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-darkBlueText mb-8">
             {t("heading3")}
           </h2>
 
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph6")}
           </p>
-          <p className="text-2xl text-gray-700 leading-loose mb-6">
+          <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph7")}
           </p>
         </div>

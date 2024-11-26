@@ -12,7 +12,11 @@ const LanguageSwitcher = () => {
   };
 
   return (
-    <select value={locale} onChange={handleChange}>
+    <select
+      className="bg-white border border-black p-2"
+      value={locale}
+      onChange={handleChange}
+    >
       {availableLocales.map((localeCode) => (
         <option key={localeCode} value={localeCode}>
           {localeCode === "en" ? "English" : "Nederlands"}
