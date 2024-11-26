@@ -1,6 +1,15 @@
 {
   "navbar": {
-    "logoAltText": "Logo"
+    "logoAltText": "Logo",
+    "home": "Home",
+    "burying": "Burying",
+    "cremation": "Cremation",
+    "what_to_do": "What to do",
+    "blogs": "Blogs",
+    "about_us": "About us",
+    "urgent": "URGENT 24/7",
+    "search": "Search",
+    "partner": "Partners"
   },
   "contact": {
     "header": "Contact us",
@@ -574,27 +583,27 @@
   },
 
   "partner": {
-    "ourTrustedPartnersAndServices": "Onze vertrouwde partners & diensten",
-    "floralPartnersTitle": "Onze bloemistenpartners voor doordachte huldebetuigingen",
-    "floralPartnersDescription": "Van elegante kransen tot verfijnde bloemstukken – Ontdek onze aanbevolen bloemisten, die zich inzetten voor het creëren van oprechte huldebetuigingen voor een betekenisvol afscheid.",
+    "ourTrustedPartnersAndServices": "Our Trusted Partners & Services",
+    "floralPartnersTitle": "Our Florist Partners for Thoughtful Tributes",
+    "floralPartnersDescription": "From elegant wreaths to refined floral arrangements – Discover our recommended florists, dedicated to creating sincere tributes for a meaningful farewell.",
     "partner1": "Daily Flowers",
-    "partner2": "Amsterdamse boekenservice",
-    "partner3": "Bloemist Den Haag",
-    "memorialCardsTitle": "Herdenkingskaarten",
-    "memorialCardsDescription": "Onze geselecteerde partners bieden prachtig vervaardigde kaarten om geliefden op een persoonlijke manier te eren en te herinneren.",
+    "partner2": "Amsterdam Book Service",
+    "partner3": "Florist The Hague",
+    "memorialCardsTitle": "Memorial Cards",
+    "memorialCardsDescription": "Our selected partners offer beautifully crafted cards to honor and remember loved ones in a personal way.",
     "partner4": "Cards of Amsterdam",
-    "partner5": "Gedachtenis kaartjes",
-    "partner6": "Kaarten voor iedere gelegenheid",
-    "memorialStonesTitle": "Herdenkingsstenen & plaquettes",
-    "memorialStonesDescription": "Onze vertrouwde partners bieden stenen en plaquettes met gepersonaliseerde inscripties voor een betekenisvolle rustplaats.",
-    "partner7": "Grafstenen Nederland",
-    "partner8": "Steen met betekenis",
-    "partner9": "Steen met betekenis",
-    "casketsAndUrnsTitle": "Kisten & Urnen",
-    "casketsAndUrnsDescription": "Onze partners bieden een reeks prachtig vervaardigde kisten en urnen, met opties die het individu van uw dierbare respectvol eren.",
+    "partner5": "Memory Cards",
+    "partner6": "Cards for Every Occasion",
+    "memorialStonesTitle": "Memorial Stones & Plaques",
+    "memorialStonesDescription": "Our trusted partners offer stones and plaques with personalized inscriptions for a meaningful resting place.",
+    "partner7": "Gravestones Netherlands",
+    "partner8": "Stone with Meaning",
+    "partner9": "Stone with Meaning",
+    "casketsAndUrnsTitle": "Caskets & Urns",
+    "casketsAndUrnsDescription": "Our partners offer a range of beautifully crafted caskets and urns, with options that respectfully honor the individuality of your loved one.",
     "partner10": "Urns",
-    "partner11": "Laatste bed",
-    "partner12": "Natuurgrafstenen"
+    "partner11": "Last Bed",
+    "partner12": "Natural Gravestones"
   },
   "product": {
     "navbar": "Navbar",

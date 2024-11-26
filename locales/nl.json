@@ -1,6 +1,15 @@
 {
   "navbar": {
-    "logoAltText": "Logo"
+    "logoAltText": "Logo",
+    "home": "Home",
+    "burying": "Begraven",
+    "cremation": "Crematie",
+    "what_to_do": "Wat te doen",
+    "blogs": "Blogs",
+    "about_us": "Over ons",
+    "urgent": "DRINGEND 24/7",
+    "search": "Zoeken",
+    "partner": "Partner worden"
   },
   "contact": {
     "header": "Neem contact met ons op",

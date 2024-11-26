@@ -94,10 +94,10 @@ export default function Footer() {
 
   return (
     <>
-      <section className="bg-[#f9feff] shadow-inner">
-        <footer className="grid grid-cols-12 container mx-auto py-10">
-          <div className="col-span-5">
-            <div className="flex w-full  flex-1 shrink-0 flex-col">
+      <section className="px-4 md:px-0 bg-[#f9feff] shadow-inner">
+        <footer className="grid grid-cols-1 md:gap-0 gap-y-10  md:grid-cols-12 container mx-auto py-10">
+          <div className="md:md:col-span-5">
+            <div className="flex w-full items-center md:items-start flex-1 shrink-0 flex-col">
               <Image
                 className=""
                 src={"/logo-cropped.png"}
@@ -149,7 +149,7 @@ export default function Footer() {
               {t("foundationFarewell")}
             </p>
           </div>
-          <div className="h-full w-full   flex flex-col justify-end col-span-3">
+          <div className="h-full w-full   flex flex-col justify-end md:col-span-3">
             <p className="text-xl font-bold text-[#02084b] mt-3">
               {t("followStory")}
             </p>
@@ -190,7 +190,7 @@ export default function Footer() {
               />
             </div>
           </div>
-          <div className="h-full w-full  flex flex-col justify-between col-span-4">
+          <div className="h-full w-full  flex flex-col justify-between md:col-span-4 gap-4 md:gap-0">
             <p className="text-xl font-bold text-[#02084b] mt-5">
               {t("aboutUs")}
             </p>

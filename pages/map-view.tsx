@@ -499,14 +499,17 @@ const MapView = () => {
     <>
       <Navbar />
       <section className="flex">
-        <div className="w-1/3 flex flex-col px-3 mt-10">
-          <button
-            onClick={() => router.back()}
-            className="bg-orange-500 px-8 py-2 text-lg  text-white my-3 rounded-full w-fit"
-          >
-            {t("back")}
-          </button>
-          <div className="flex">
+        <div className="w-1/3 flex flex-col items-center px-3 mt-10">
+          <div className="w-full">
+            {" "}
+            <button
+              onClick={() => router.back()}
+              className="w-fit mb-5 ml-4 bg-blue-500 text-white px-4 py-2 rounded"
+            >
+              {t("back")}
+            </button>
+          </div>
+          <div className="flex w-3/4">
             <input
               type="text"
               onChange={(e) => setSearchText(e.target.value)}
@@ -529,7 +532,7 @@ const MapView = () => {
                     color: "white",
                   }}
                 />
-                <span className=" text-white">{t("searchbar")}</span>
+                {/* <span className=" text-white">{t("searchbar")}</span> */}
                 {/* Text aligned next to the icon */}
               </a>
             </button>

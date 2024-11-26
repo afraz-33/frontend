@@ -26,7 +26,7 @@ export default function Partner() {
         width={400}
         className="w-full"
       />
-      <section className="container mx-auto my-10 flex flex-col gap-5">
+      <section className="px-4 md:px-0 container mx-auto my-10 flex flex-col gap-5">
         <h3 className="text-3xl font-bold text-darkBlueText">
           {t("ourTrustedPartnersAndServices")}
         </h3>

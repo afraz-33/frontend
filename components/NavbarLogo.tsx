@@ -4,8 +4,22 @@ import { usePathname } from "next/navigation"; // Use the new usePathname hook
 import { useState } from "react";
 import SearchIcon from "@mui/icons-material/Search";
 import "../src/app/globals.css";
+import LanguageSwitcher from "./languageSwitcher";
+import { useTranslations } from "use-intl";
+
+export async function getStaticProps({ locale }) {
+  console.log("Current Locale:", locale); // Debug
+
+  return {
+    props: {
+      locale: locale || "en", // Fallback to 'en' if locale is undefined
+      messages: (await import(`../locales/${locale || "en"}.json`)).default,
+    },
+  };
+}
 
 const Navbar = () => {
+  const t = useTranslations("navbar");
   const [menuOpen, setMenuOpen] = useState(false);
   const pathname = usePathname(); // Get the current path
 
@@ -20,6 +34,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 flex justify-between items-center py-3">
         {/* Logo */}
+
         <Link href="/" passHref>
           <div className="flex items-center cursor-pointer ">
             <Image
@@ -64,7 +79,7 @@ const Navbar = () => {
                   isActive("/") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                Home
+                {t("home")}
               </a>
             </Link>
           </li>
@@ -75,7 +90,7 @@ const Navbar = () => {
                   isActive("/burying") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                Burying
+                {t("burying")}
               </a>
             </Link>
           </li>
@@ -86,7 +101,7 @@ const Navbar = () => {
                   isActive("/cremation") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                Cremation
+                {t("cremation")}
               </a>
             </Link>
           </li>
@@ -97,7 +112,7 @@ const Navbar = () => {
                   isActive("/what-to-do") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                What to do
+                {t("what_to_do")}
               </a>
             </Link>
           </li>
@@ -108,7 +123,7 @@ const Navbar = () => {
                   isActive("/blogs") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                Blogs
+                {t("blogs")}
               </a>
             </Link>
           </li>
@@ -119,7 +134,18 @@ const Navbar = () => {
                   isActive("/about") ? "text-blue-800" : "text-gray-800"
                 }`}
               >
-                About us
+                {t("about_us")}
+              </a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/partner" legacyBehavior>
+              <a
+                className={`hover:text-blue-800 ${
+                  isActive("/partner") ? "text-blue-800" : "text-gray-800"
+                }`}
+              >
+                {t("partner")}
               </a>
             </Link>
           </li>
@@ -128,16 +154,18 @@ const Navbar = () => {
         {/* URGENT Button and Search (Visible on larger screens) */}
         <div className="hidden md:flex items-center space-x-4">
           <button className="bg-orange-500 text-gray-800 px-4 py-2 rounded-lg font-semibold text-xl">
-            URGENT 24/7
+            {t("urgent")}
           </button>
           <Link href="/cremation" legacyBehavior>
             <a className="text-gray-800 text-lg hover:text-gray-500 flex items-center">
               <SearchIcon style={{ fontSize: "24px", marginRight: "8px" }} />
-              <span className="ml-2">Search</span>{" "}
+              <span className="ml-2">{t("search")}</span>{" "}
               {/* Text aligned next to the icon */}
             </a>
           </Link>
         </div>
+
+        <LanguageSwitcher />
       </div>
 
       {/* Mobile Menu */}
@@ -151,7 +179,7 @@ const Navbar = () => {
                     isActive("/") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  Home
+                  {t("home")}
                 </a>
               </Link>
             </li>
@@ -162,7 +190,7 @@ const Navbar = () => {
                     isActive("/burying") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  Burying
+                  {t("burying")}
                 </a>
               </Link>
             </li>
@@ -173,7 +201,7 @@ const Navbar = () => {
                     isActive("/cremation") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  Cremation
+                  {t("cremation")}
                 </a>
               </Link>
             </li>
@@ -184,7 +212,7 @@ const Navbar = () => {
                     isActive("/what-to-do") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  What to do
+                  {t("what_to_do")}
                 </a>
               </Link>
             </li>
@@ -195,7 +223,7 @@ const Navbar = () => {
                     isActive("/blogs") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  Blogs
+                  {t("blogs")}
                 </a>
               </Link>
             </li>
@@ -206,7 +234,7 @@ const Navbar = () => {
                     isActive("/about") ? "text-blue-800 underline" : ""
                   }`}
                 >
-                  About us
+                  {t("about_us")}
                 </a>
               </Link>
             </li>
@@ -215,7 +243,7 @@ const Navbar = () => {
                 className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold w-full text-xl"
                 style={{ color: "black" }}
               >
-                URGENT 24/7
+                {t("urgent")}
               </button>
             </li>
             <li className="mt-4">
@@ -224,7 +252,7 @@ const Navbar = () => {
                   <SearchIcon
                     style={{ fontSize: "24px", marginRight: "8px" }}
                   />
-                  <span className="ml-2">Search</span>
+                  <span className="ml-2">{t("search")}</span>
                 </a>
               </Link>
             </li>
