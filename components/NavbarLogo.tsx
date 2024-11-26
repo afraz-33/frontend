@@ -257,7 +257,7 @@ const Navbar = () => {
               </button>
             </li>
             <li className="mt-4">
-              <Link href="/search" legacyBehavior>
+              <Link href="/cremation" legacyBehavior>
                 <a className="text-gray-800 text-lg hover:text-gray-500 flex items-center">
                   <SearchIcon
                     style={{ fontSize: "24px", marginRight: "8px" }}

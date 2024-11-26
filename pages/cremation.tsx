@@ -268,7 +268,7 @@ const BurialCremationPage = () => {
                   checked={filters.funeral_type === "Non-religious Burial"}
                 />
                 <label htmlFor="non-religious-burial">
-                  {t("non-religous_burial")}
+                  {t("non_religious")}
                 </label>
               </li>
               <li>
@@ -315,7 +315,7 @@ const BurialCremationPage = () => {
                   onChange={() => handleFilterChange("payment", "Prepayment")}
                   checked={filters.payment === "Prepayment"}
                 />
-                <label htmlFor="prepayment">{t("Prepayment")}</label>
+                <label htmlFor="prepayment">{t("prepayment")}</label>
               </li>
               <li>
                 <input
@@ -680,7 +680,7 @@ const BurialCremationPage = () => {
                   checked={filters.facilities === "Funeral Room"}
                 />
                 <label htmlFor="facilities-funeral-room">
-                  {t("funeral_rooms")}
+                  {t("funeral_room")}
                 </label>
               </li>
               <li>
@@ -780,7 +780,7 @@ const BurialCremationPage = () => {
                   checked={filters.transport === "Special Transport"}
                 />
                 <label htmlFor="transport-special">
-                  {t("Special_Transport")}
+                  {t("special_transport")}
                 </label>
               </li>
               <li>
@@ -890,7 +890,7 @@ const BurialCremationPage = () => {
                   }
                 />
                 <label htmlFor="headstone-different-types">
-                  {t("different_types_of_headstones")}
+                  {t("choice_of_various_types_of_headstones")}
                 </label>
               </li>
               <li>

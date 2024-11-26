@@ -498,8 +498,8 @@ const MapView = () => {
   return (
     <>
       <Navbar />
-      <section className="flex">
-        <div className="w-1/3 flex flex-col items-center px-3 mt-10">
+      <section className="flex md:flex-row flex-col">
+        <div className="md:w-1/3 flex flex-col items-center px-3 mt-10">
           <div className="w-full">
             {" "}
             <button
@@ -591,7 +591,7 @@ const MapView = () => {
                 })}
           </ul>
         </div>
-        <div id="map" style={{ height: "80vh", width: "100%" }}></div>;
+        <div id="map" style={{ height: "80vh", width: "100%" }}></div>
       </section>
     </>
   );

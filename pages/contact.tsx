@@ -20,7 +20,7 @@ export default function Contact() {
     <>
       <Navbar />
 
-      <section className="py-10">
+      <section className="py-10 md:px-0 px-4">
         <div className="bg-footerBlue">
           <div className="container mx-auto py-10">
             <div className="w-fit flex flex-col gap-2 mb-10">
@@ -46,7 +46,7 @@ export default function Contact() {
             </p>
           </div>
         </div>
-        <div className="grid grid-cols-3 mt-10 container mx-auto text-darkBlueText">
+        <div className="grid grid-cols-1 md:grid-cols-3  gap-4 md:gap-0 mt-10 container mx-auto text-darkBlueText">
           <div className="w-full flex flex-col">
             <h3 className="text-2xl font-bold mb-2">
               {t("visitingAddressHeader")}
@@ -170,7 +170,7 @@ export default function Contact() {
                 id="additionalComments"
                 cols={30}
                 rows={10}
-                className="py-2 px-4 placeholder-black bg-footerBlue text-black text-xl"
+                className="py-2 px-4 w-full placeholder-black bg-footerBlue text-black text-xl"
               ></textarea>
             </fieldset>
             <button className="text-xl bg-darkBlueText rounded-full px-8 py-1 w-fit text-white">
