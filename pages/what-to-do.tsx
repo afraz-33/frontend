@@ -26,21 +26,21 @@ const WhatToDo = () => {
         <p className="text-xl text-gray-400 px-10 mx-auto my-5">
           {t("hero.whatToDo")}
         </p>
-        <div className="w-full relative h-[60vh] overflow-clip">
+        <div className="w-full md:h-[60vh] overflow-clip">
           <Image
             src="/6.jpeg" // Replace this with the actual image path
             alt="Flowers background"
             layout="responsive"
-            className="absolute"
+            className="w-full "
             width={300}
             height={200}
-            objectFit="cover"
+            objectFit="contain"
           />
         </div>
       </section>
 
       {/* Main Content */}
-      <section className="py-12 px-4 lg:px-24">
+      <section className="mt-10 px-4 lg:px-24">
         <h1 className="text-3xl font-bold text-left mb-8">
           {t("hero.mainHeading")}
         </h1>
@@ -48,7 +48,7 @@ const WhatToDo = () => {
         <br />
 
         {/* Steps */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-y-32 justify-items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-y-20 justify-items-center">
           <div className="bg-blue-100 p-10 md:p-20 rounded-[36px] shadow-lg md:h-[50vh] flex flex-col items-center justify-start md:gap-10 w-3/4">
             <h2 className="text-2xl md:text-3xl font-semibold text-center mb-4">
               {t("steps.step1.heading")}
