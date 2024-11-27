@@ -33,8 +33,8 @@ const About = () => {
             {t("paragraph1")}
           </p>
 
-          <div className="flex flex-col justify-between items-center mb-12">
-            <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6 md:w-3/4">
+          <div className="flex md:flex-row flex-col justify-between items-center mb-12">
+            <p className="text-xl  md:text-2xl text-gray-700 md:leading-10 mb-6 md:w-3/4">
               {t("paragraph2")}
             </p>
             <div className="md:w-3/4 flex justify-center">
@@ -77,7 +77,7 @@ const About = () => {
             width={500}
             height={500}
             alt="About"
-            className="w-full"
+            className="w-full my-4"
           />
           <p className="text-xl md:text-2xl text-gray-700 leading-loose mb-6">
             {t("paragraph5")}
